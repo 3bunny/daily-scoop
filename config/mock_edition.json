@@ -1,0 +1,29 @@
+{
+  "built": "2026-06-27",
+  "categories": [
+    {"key":"business","title":"Business","articles":[
+      {"id":"a1","category":"business","source":"BBC News","link":"https://example.com/1","published":"2026-06-27T08:00:00+09:00",
+       "headline":"Big Coffee Chain Opens 1,000th Store in Asia",
+       "excerpt":"A popular coffee company celebrates a milestone as it opens its one-thousandth shop in Asia.",
+       "levels":{
+         "Beginner":"A big coffee company opened its 1,000th store in Asia. This is a special day for the company. Many people in Asia like to drink coffee. The company started small. Now it is very big. It hopes to open more stores next year.",
+         "Intermediate":"A well-known coffee company has opened its 1,000th store in Asia, marking an important milestone. The company said that demand for coffee across the region has grown quickly in recent years. Managers hope to open hundreds more shops over the next few years, creating many new jobs.",
+         "Advanced":"A leading coffee chain has reached a significant milestone with the opening of its 1,000th outlet in Asia, underscoring the region's rapidly expanding appetite for premium coffee. Executives attribute the growth to rising incomes and changing tastes, and they signaled ambitious plans for further expansion."},
+       "vocab":[{"word":"milestone","definition":"an important point or event in progress"},{"word":"demand","definition":"how much people want to buy something"},{"word":"expansion","definition":"the act of growing bigger"}],
+       "questions":[{"q":"How many stores did the company open in Asia?","a":"One thousand (1,000)."},{"q":"Why is the company growing, according to the article?","a":"Because demand for coffee in the region has grown."}]}
+    ]},
+    {"key":"sports","title":"Sports","articles":[
+      {"id":"a2","category":"sports","source":"The Guardian","link":"https://example.com/2","published":"2026-06-27T07:00:00+09:00",
+       "headline":"Young Runner Breaks National Record","excerpt":"A teenage athlete surprises fans by breaking a long-standing national running record.",
+       "levels":{"Beginner":"A young runner broke a national record. She is only 17 years old. Many people were surprised. She trained very hard for many years. She said she is very happy.",
+         "Intermediate":"A 17-year-old runner has broken her country's national record, surprising fans and coaches. She said months of hard training helped her succeed, and she hopes to compete internationally next year.",
+         "Advanced":"A 17-year-old athlete has shattered a long-standing national record, announcing herself as a rising star. She credited a rigorous training regimen for the breakthrough and expressed hope of competing on the world stage."},
+       "vocab":[{"word":"record","definition":"the best result ever achieved"},{"word":"train","definition":"to practice to get better at something"}],
+       "questions":[{"q":"How old is the runner?","a":"17 years old."},{"q":"What does she hope to do next?","a":"Compete internationally / on the world stage."}]}
+    ]}
+  ],
+  "home": [
+    {"id":"a1","category":"business","category_title":"Business","source":"BBC News","headline":"Big Coffee Chain Opens 1,000th Store in Asia","excerpt":"A popular coffee company celebrates a milestone as it opens its one-thousandth shop in Asia.","link":"https://example.com/1","levels":{"Beginner":"","Intermediate":"","Advanced":""},"vocab":[],"questions":[]},
+    {"id":"a2","category":"sports","category_title":"Sports","source":"The Guardian","headline":"Young Runner Breaks National Record","excerpt":"A teenage athlete surprises fans by breaking a long-standing national running record.","link":"https://example.com/2","levels":{"Beginner":"","Intermediate":"","Advanced":""},"vocab":[],"questions":[]}
+  ]
+}

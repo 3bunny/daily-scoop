@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Daily Scoop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800;900&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#f7f3ea;--ink:#1c1a17;--muted:#6b6358;--rule:#d8cfbf;--accent:#8a1f1f;--accent2:#2a3d54;--pill:#efe8da;--ok:#2e7d4f}
+*{box-sizing:border-box}
+html,body{max-width:100%;overflow-x:hidden}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,'Times New Roman',serif;
+  line-height:1.65;overflow-wrap:break-word;word-break:break-word;-webkit-text-size-adjust:100%}
+a{color:var(--accent2)}
+.wrap{max-width:760px;margin:0 auto;padding:20px 18px 120px}
+header.top{text-align:center;border-bottom:3px double var(--ink);padding-bottom:12px}
+header.top h1{font-family:'Playfair Display',Georgia,serif;font-weight:900;letter-spacing:.03em;margin:.1em 0;font-size:clamp(30px,8vw,50px)}
+.tag{font-style:italic;color:var(--muted);font-size:14px;margin:4px 0 12px}
+.tabs{display:flex;gap:6px;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}
+.tab{flex:0 0 auto;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;letter-spacing:.02em;
+  background:none;border:none;border-bottom:3px solid transparent;color:var(--muted);padding:9px 10px;cursor:pointer;white-space:nowrap}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+.viewtitle{font-family:'Playfair Display',Georgia,serif;font-size:24px;margin:22px 0 4px;color:var(--accent)}
+.card{padding:18px 0;border-bottom:1px solid var(--rule)}
+.card:last-child{border-bottom:none}
+.cat-tag{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--accent2);background:var(--pill);border:1px solid var(--rule);border-radius:20px;padding:2px 9px;margin-bottom:8px}
+.card h3{margin:0 0 6px;font-size:20px;line-height:1.3}
+.card .src{font-family:Helvetica,Arial,sans-serif;font-size:11.5px;color:var(--muted);margin-bottom:6px}
+.excerpt{margin:0 0 10px;font-size:16px;color:var(--ink)}
+.more{font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;color:var(--accent);background:none;border:none;padding:0;cursor:pointer}
+/* article view */
+.crumb{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:18px 0 8px}
+.art-h{font-family:'Playfair Display',Georgia,serif;font-size:26px;line-height:1.25;margin:0 0 6px}
+.art-src{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:var(--muted);margin-bottom:16px}
+.levels{display:flex;gap:0;border:1px solid var(--rule);border-radius:24px;overflow:hidden;margin:0 0 18px;background:#fff}
+.levels button{flex:1;font-family:Helvetica,Arial,sans-serif;font-size:12.5px;font-weight:700;border:none;background:none;padding:9px 6px;cursor:pointer;color:var(--muted)}
+.levels button.active{background:var(--accent2);color:#fff}
+.panel{background:#fff;border:1px solid var(--rule);border-radius:5px;padding:14px 16px;margin:0 0 18px}
+.panel h4{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0 0 10px}
+dl.vocab{margin:0}
+dl.vocab dt{font-weight:700;margin-top:9px}
+dl.vocab dd{margin:2px 0 0;font-size:15.5px}
+.article-body p{font-size:17px;margin:0 0 15px}
+.q{border-top:1px solid var(--rule);padding-top:12px;margin-top:12px}
+.q:first-child{border-top:none;padding-top:0;margin-top:0}
+.q .qq{font-weight:700;font-size:16px;margin:0 0 6px}
+.q details summary{cursor:pointer;color:var(--accent2);font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700;list-style:none}
+.q details summary::-webkit-details-marker{display:none}
+.q details summary::before{content:"Show answer ▸"}
+.q details[open] summary::before{content:"Answer ▾"}
+.q details p{margin:6px 0 0;font-size:15.5px}
+.srclink{display:inline-block;margin-top:6px;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:700}
+/* bottom bar */
+.navbar{position:fixed;left:0;right:0;bottom:0;display:flex;gap:1px;background:var(--rule);z-index:50;
+  box-shadow:0 -2px 8px rgba(0,0,0,.08)}
+.navbar button{flex:1;background:var(--paper);border:none;padding:13px 8px;font-family:Helvetica,Arial,sans-serif;
+  font-size:13px;font-weight:700;color:var(--accent2);cursor:pointer}
+.navbar button:disabled{opacity:.35}
+#bionic-toggle{position:fixed;right:12px;bottom:62px;z-index:60;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;
+  background:var(--accent2);color:#fff;border:none;border-radius:20px;padding:9px 14px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25);opacity:.92}
+</style></head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>THE DAILY SCOOP</h1>
+    <div class="tag">World news in English — read, learn, and grow &middot; <span id="built"></span></div>
+    <div class="tabs" id="tabs"></div>
+  </header>
+  <div id="view"></div>
+</div>
+<div class="navbar">
+  <button id="nav-back">← Back</button>
+  <button id="nav-top">↑ Top</button>
+</div>
+<script>
+const ED = {"built": "2026-06-27", "categories": [{"key": "business", "title": "Business", "articles": [{"id": "a1", "category": "business", "source": "BBC News", "link": "https://example.com/1", "published": "2026-06-27T08:00:00+09:00", "headline": "Big Coffee Chain Opens 1,000th Store in Asia", "excerpt": "A popular coffee company celebrates a milestone as it opens its one-thousandth shop in Asia.", "levels": {"Beginner": "A big coffee company opened its 1,000th store in Asia. This is a special day for the company. Many people in Asia like to drink coffee. The company started small. Now it is very big. It hopes to open more stores next year.", "Intermediate": "A well-known coffee company has opened its 1,000th store in Asia, marking an important milestone. The company said that demand for coffee across the region has grown quickly in recent years. Managers hope to open hundreds more shops over the next few years, creating many new jobs.", "Advanced": "A leading coffee chain has reached a significant milestone with the opening of its 1,000th outlet in Asia, underscoring the region's rapidly expanding appetite for premium coffee. Executives attribute the growth to rising incomes and changing tastes, and they signaled ambitious plans for further expansion."}, "vocab": [{"word": "milestone", "definition": "an important point or event in progress"}, {"word": "demand", "definition": "how much people want to buy something"}, {"word": "expansion", "definition": "the act of growing bigger"}], "questions": [{"q": "How many stores did the company open in Asia?", "a": "One thousand (1,000)."}, {"q": "Why is the company growing, according to the article?", "a": "Because demand for coffee in the region has grown."}]}]}, {"key": "sports", "title": "Sports", "articles": [{"id": "a2", "category": "sports", "source": "The Guardian", "link": "https://example.com/2", "published": "2026-06-27T07:00:00+09:00", "headline": "Young Runner Breaks National Record", "excerpt": "A teenage athlete surprises fans by breaking a long-standing national running record.", "levels": {"Beginner": "A young runner broke a national record. She is only 17 years old. Many people were surprised. She trained very hard for many years. She said she is very happy.", "Intermediate": "A 17-year-old runner has broken her country's national record, surprising fans and coaches. She said months of hard training helped her succeed, and she hopes to compete internationally next year.", "Advanced": "A 17-year-old athlete has shattered a long-standing national record, announcing herself as a rising star. She credited a rigorous training regimen for the breakthrough and expressed hope of competing on the world stage."}, "vocab": [{"word": "record", "definition": "the best result ever achieved"}, {"word": "train", "definition": "to practice to get better at something"}], "questions": [{"q": "How old is the runner?", "a": "17 years old."}, {"q": "What does she hope to do next?", "a": "Compete internationally / on the world stage."}]}]}], "home": [{"id": "a1", "category": "business", "category_title": "Business", "source": "BBC News", "headline": "Big Coffee Chain Opens 1,000th Store in Asia", "excerpt": "A popular coffee company celebrates a milestone as it opens its one-thousandth shop in Asia.", "link": "https://example.com/1", "levels": {"Beginner": "", "Intermediate": "", "Advanced": ""}, "vocab": [], "questions": []}, {"id": "a2", "category": "sports", "category_title": "Sports", "source": "The Guardian", "headline": "Young Runner Breaks National Record", "excerpt": "A teenage athlete surprises fans by breaking a long-standing national running record.", "link": "https://example.com/2", "levels": {"Beginner": "", "Intermediate": "", "Advanced": ""}, "vocab": [], "questions": []}]};
+const LEVELS = ["Beginner","Intermediate","Advanced"];
+const LS = {get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let level = LS.get('scoopLevel','Intermediate');
+let bionic = LS.get('scoopBionic', false);
+let view = {type:'home'};
+let history = [];
+
+function esc(s){return (s==null?'':String(s)).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function byId(id){for(const c of ED.categories)for(const a of c.articles)if(a.id===id)return a;return null;}
+function catTitle(key){const c=ED.categories.find(c=>c.key===key);return c?c.title:key;}
+
+function paras(text){return String(text||'').split(/\n{2,}|\n/).filter(t=>t.trim()).map(t=>'<p>'+esc(t)+'</p>').join('')||'<p></p>';}
+
+function bw(w){const m=w.match(/^([^A-Za-z0-9]*)([A-Za-z0-9]+)([\s\S]*)$/);if(!m)return w;const n=Math.max(1,Math.round(m[2].length*0.45));return m[1]+'<b>'+m[2].slice(0,n)+'</b>'+m[2].slice(n)+m[3];}
+function applyBionic(root){root.querySelectorAll('.article-body p, .excerpt').forEach(el=>{const wk=document.createTreeWalker(el,NodeFilter.SHOW_TEXT,null);const ns=[];while(wk.nextNode())ns.push(wk.currentNode);ns.forEach(t=>{if(!t.nodeValue.trim())return;const sp=document.createElement('span');sp.innerHTML=t.nodeValue.split(/(\s+)/).map(tk=>tk.trim()?bw(tk):tk).join('');t.parentNode.replaceChild(sp,t);});});}
+
+function renderTabs(){
+  const t=document.getElementById('tabs');t.innerHTML='';
+  const tabs=[{key:'__home',title:'Home'}].concat(ED.categories.map(c=>({key:c.key,title:c.title})));
+  tabs.forEach(tab=>{const b=document.createElement('button');
+    const active=(tab.key==='__home'&&view.type==='home')||(view.type==='category'&&view.key===tab.key);
+    b.className='tab'+(active?' active':'');b.textContent=tab.title;
+    b.onclick=()=>{history=[];view=tab.key==='__home'?{type:'home'}:{type:'category',key:tab.key};render();};
+    t.appendChild(b);});
+}
+
+function cardHTML(a, showCat){
+  const tag=showCat?'<span class="cat-tag">'+esc(a.category_title||catTitle(a.category))+'</span>':'';
+  return '<div class="card">'+tag+'<h3>'+esc(a.headline)+'</h3>'+
+    '<div class="src">'+esc(a.source)+'</div>'+
+    '<p class="excerpt">'+esc(a.excerpt)+'</p>'+
+    '<button class="more" data-id="'+a.id+'">Read more →</button></div>';
+}
+
+function renderList(title, articles, showCat){
+  let h='<div class="viewtitle">'+esc(title)+'</div>';
+  h+=articles.map(a=>cardHTML(a,showCat)).join('') || '<div class="excerpt" style="color:var(--muted)">No stories today. Check back tomorrow.</div>';
+  document.getElementById('view').innerHTML=h;
+  document.querySelectorAll('.more').forEach(b=>b.onclick=()=>{history.push(view);view={type:'article',id:b.getAttribute('data-id')};render();});
+}
+
+function renderArticle(a){
+  const lv=LEVELS.includes(level)?level:'Intermediate';
+  let h='<div class="crumb">'+esc(catTitle(a.category))+'</div>';
+  h+='<h2 class="art-h">'+esc(a.headline)+'</h2>';
+  h+='<div class="art-src">'+esc(a.source)+'</div>';
+  h+='<div class="levels">'+LEVELS.map(l=>'<button data-lv="'+l+'" class="'+(l===lv?'active':'')+'">'+l+'</button>').join('')+'</div>';
+  if((a.vocab||[]).length){h+='<div class="panel"><h4>Vocabulary</h4><dl class="vocab">'+
+    a.vocab.map(v=>'<dt>'+esc(v.word)+'</dt><dd>'+esc(v.definition)+'</dd>').join('')+'</dl></div>';}
+  h+='<div class="article-body">'+paras((a.levels||{})[lv])+'</div>';
+  if((a.questions||[]).length){h+='<div class="panel"><h4>Comprehension</h4>'+
+    a.questions.map((q,i)=>'<div class="q"><p class="qq">'+(i+1)+'. '+esc(q.q)+'</p><details><summary></summary><p>'+esc(q.a)+'</p></details></div>').join('')+'</div>';}
+  if(a.link){h+='<a class="srclink" href="'+esc(a.link)+'" target="_blank" rel="noopener">Read the original ↗</a>';}
+  const el=document.getElementById('view');el.innerHTML=h;
+  el.querySelectorAll('.levels button').forEach(b=>b.onclick=()=>{level=b.getAttribute('data-lv');LS.set('scoopLevel',level);renderArticle(a);});
+  if(bionic)applyBionic(el);
+  window.scrollTo(0,0);
+}
+
+function render(){
+  renderTabs();
+  document.getElementById('nav-back').disabled = (history.length===0);
+  if(view.type==='home') renderList('Today’s Headlines', ED.home||[], true);
+  else if(view.type==='category'){const c=ED.categories.find(c=>c.key===view.key);renderList(c?c.title:'', c?c.articles:[], false);}
+  else if(view.type==='article'){const a=byId(view.id);a?renderArticle(a):(view={type:'home'},render());}
+}
+
+document.getElementById('built').textContent = ED.built||'';
+document.getElementById('nav-top').onclick=()=>window.scrollTo({top:0,behavior:'smooth'});
+document.getElementById('nav-back').onclick=()=>{if(history.length){view=history.pop();render();}};
+// Fast Reading toggle
+const fb=document.createElement('button');fb.id='bionic-toggle';
+function flbl(){fb.textContent='⚡ Fast Reading: '+(bionic?'ON':'OFF');}
+fb.onclick=()=>{bionic=!bionic;LS.set('scoopBionic',bionic);flbl();render();};
+document.body.appendChild(fb);flbl();
+render();
+</script>
+</body></html>

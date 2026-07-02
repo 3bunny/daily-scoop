@@ -1,0 +1,41 @@
+# The Daily Scoop — world news for English learners.
+articles_per_category: 5      # how many stories per category
+lookback_hours: 30            # only consider items newer than this
+
+categories:
+  - key: business
+    title: "Business"
+    feeds:
+      - https://feeds.bbci.co.uk/news/business/rss.xml
+      - https://www.theguardian.com/uk/business/rss
+      - https://feeds.npr.org/1006/rss.xml
+  - key: economics
+    title: "Economics"
+    feeds:
+      - https://www.theguardian.com/business/economics/rss
+      - https://www.economist.com/finance-and-economics/rss.xml
+      - https://feeds.bbci.co.uk/news/business/rss.xml
+  - key: politics
+    title: "Politics"
+    feeds:
+      - https://feeds.bbci.co.uk/news/world/rss.xml
+      - https://www.theguardian.com/politics/rss
+      - https://feeds.npr.org/1014/rss.xml
+  - key: sports
+    title: "Sports"
+    feeds:
+      - https://feeds.bbci.co.uk/sport/rss.xml
+      - https://www.theguardian.com/sport/rss
+      - https://www.espn.com/espn/rss/news
+  - key: finance
+    title: "Finance"
+    feeds:
+      - https://www.cnbc.com/id/10000664/device/rss/rss.html
+      - https://www.cnbc.com/id/20910258/device/rss/rss.html
+      - https://feeds.bbci.co.uk/news/business/rss.xml
+  - key: entertainment
+    title: "Entertainment"
+    feeds:
+      - https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml
+      - https://www.theguardian.com/culture/rss
+      - https://variety.com/feed/
