@@ -4,33 +4,1636 @@
     {
       "key": "business",
       "title": "Business",
-      "articles": []
+      "articles": [
+        {
+          "headline": "Singapore Seizes $42M Mansion in AI Chip Smuggling Probe",
+          "excerpt": "A luxury home in Singapore was seized in a probe into the illegal trade of powerful AI computer chips.",
+          "levels": {
+            "Beginner": {
+              "text": "Singapore police have taken a very expensive house. This house cost 42 million US dollars. It was seized because of a crime. The police are investigating people who were illegally selling special computer parts. These parts are called AI semiconductors, like those made by Nvidia. AI chips are very powerful. They help computers become smart and learn things, like in Artificial Intelligence.\n\nSelling these important computer parts without permission is against the law. The police believe this expensive house was bought with money from this illegal trade. This means people were making a lot of money by selling these chips secretly. The government wants to stop this kind of crime. They are working to find out more about who is involved in selling these chips illegally. This seizure shows that Singapore is serious about stopping illegal activities, especially those involving valuable technology. The investigation is still happening to catch all the people involved.",
+              "vocab": [
+                {
+                  "word": "seized",
+                  "definition": "taken by force or by legal power."
+                },
+                {
+                  "word": "investigating",
+                  "definition": "looking into something carefully to find facts."
+                },
+                {
+                  "word": "illegal",
+                  "definition": "not allowed by law; against the law."
+                },
+                {
+                  "word": "semiconductors",
+                  "definition": "small parts in electronic devices, like computer chips."
+                },
+                {
+                  "word": "trade",
+                  "definition": "the activity of buying and selling goods."
+                },
+                {
+                  "word": "activities",
+                  "definition": "things that people do."
+                }
+              ]
+            },
+            "Intermediate": {
+              "text": "Singaporean authorities have seized a luxury mansion valued at $42 million as part of an ongoing investigation into the illicit trade of advanced AI semiconductors. The high-value property is believed to have been acquired with proceeds from the illegal sale of powerful computer chips, including those manufactured by Nvidia. These semiconductors are crucial components for developing Artificial Intelligence technologies, which are in high global demand.\n\nThe investigation focuses on a network involved in the smuggling of servers containing these sophisticated AI chips. Such chips are vital for data centers, advanced computing, and various AI applications, making them highly sought after across industries. Their immense processing power is essential for training complex AI models, which are used in everything from self-driving cars to medical diagnostics and military systems.\n\nHowever, due to their strategic importance, many countries, particularly the United States, have implemented strict export controls to prevent them from falling into the wrong hands or being used by rival nations for military advancements. This creates a lucrative black market for those willing to bypass international regulations, leading to incidents like the one uncovered in Singapore. The illegal trade of these chips can have significant economic and national security implications.\n\nThe seizure of the mansion underscores Singapore's commitment to combating financial crime and illegal trafficking. Authorities are working to dismantle the smuggling operations and identify all individuals and entities involved in this lucrative black market. This incident highlights the growing global concern over the unregulated flow of critical technologies and the efforts by nations to enforce international trade regulations. The probe is still active, with further details expected as the investigation progresses, aiming to bring those responsible to justice and recover any additional illicit assets.",
+              "vocab": [
+                {
+                  "word": "authorities",
+                  "definition": "official people or organizations that have the power to make decisions."
+                },
+                {
+                  "word": "illicit",
+                  "definition": "illegal or forbidden by rules or customs."
+                },
+                {
+                  "word": "semiconductors",
+                  "definition": "electronic components that are essential for computer chips and other devices."
+                },
+                {
+                  "word": "crucial",
+                  "definition": "extremely important or necessary."
+                },
+                {
+                  "word": "smuggling",
+                  "definition": "moving goods illegally into or out of a country."
+                },
+                {
+                  "word": "export controls",
+                  "definition": "government rules that limit what goods can be sent to other countries."
+                },
+                {
+                  "word": "dismantle",
+                  "definition": "to take apart or break up something, like an organization or system."
+                }
+              ]
+            },
+            "Advanced": {
+              "text": "Singaporean authorities have executed a significant asset seizure, confiscating a luxury mansion valued at an estimated $42 million. This high-profile action is a direct consequence of an intensive investigation into the illicit global trade of advanced Artificial Intelligence (AI) semiconductors, specifically targeting servers equipped with high-performance chips from manufacturers like Nvidia. The opulent property is suspected of being purchased with illicit proceeds derived from these sophisticated smuggling operations, highlighting the immense profits generated by circumventing international trade regulations.\n\nThe probe delves into a complex network facilitating the clandestine movement of these critical technological components. AI semiconductors are the bedrock of modern technological advancement, powering everything from cutting-edge data centers and cloud computing infrastructure to advanced military applications and sophisticated surveillance systems. Their unparalleled processing capabilities are indispensable for training large language models and other complex AI algorithms, making them strategic assets in the ongoing technological race between global powers. The scarcity and high demand for these chips further fuel the black market, where prices can be significantly inflated.\n\nThe global landscape for AI chip distribution is heavily influenced by geopolitical tensions, particularly the stringent export controls imposed by the United States. These regulations are primarily designed to restrict China's access to advanced computing capabilities, aiming to curb its military modernization and technological ascendancy. Consequently, a lucrative black market has emerged, where illicit actors exploit the high demand and restricted supply to traffic these chips, often through intricate global supply chains that span multiple jurisdictions. Singapore, a major financial and logistics hub, is particularly vigilant against such activities, which could undermine its reputation for financial integrity and adherence to international norms and sanctions regimes.\n\nThis seizure underscores Singapore's robust commitment to combating transnational financial crime and upholding its stringent anti-money laundering frameworks. The ongoing investigation seeks not only to prosecute those directly involved in the smuggling ring but also to trace and recover all assets acquired through these illegal activities, thereby disrupting the financial lifelines of such criminal enterprises. Such enforcement actions send a clear message that the city-state will not tolerate its territory being used as a conduit for illicit trade, especially concerning technologies with significant dual-use potential – meaning they can be used for both civilian and military purposes. The complexity of these cases often necessitates extensive international cooperation, reflecting the global nature of both the technology supply chain and the sophisticated criminal networks attempting to exploit it. Authorities are expected to continue their meticulous efforts to unravel the full extent of this operation, identifying key players and preventing future breaches of critical technology export controls.",
+              "vocab": [
+                {
+                  "word": "confiscating",
+                  "definition": "taking or seizing someone's property with authority."
+                },
+                {
+                  "word": "illicit",
+                  "definition": "forbidden by law, rules, or custom; illegal."
+                },
+                {
+                  "word": "opulent",
+                  "definition": "very rich, luxurious, or lavish."
+                },
+                {
+                  "word": "clandestine",
+                  "definition": "kept secret or done secretively, especially because illicit."
+                },
+                {
+                  "word": "bedrock",
+                  "definition": "the fundamental principles or facts on which something is based."
+                },
+                {
+                  "word": "indispensable",
+                  "definition": "absolutely necessary or essential."
+                },
+                {
+                  "word": "stringent",
+                  "definition": "strict, precise, and exacting."
+                },
+                {
+                  "word": "transnational",
+                  "definition": "extending or operating across national boundaries."
+                }
+              ]
+            }
+          },
+          "questions": [
+            {
+              "q": "What was seized by Singaporean authorities?",
+              "a": "A luxury mansion valued at $42 million."
+            },
+            {
+              "q": "Why was the mansion seized?",
+              "a": "It was seized as part of an investigation into the illegal trade of advanced AI semiconductors."
+            }
+          ],
+          "id": "acc10ba7532",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T15:02:17+09:00",
+          "category": "business"
+        },
+        {
+          "headline": "New Business Licenses: 7.2.26 - Richmond BizSense",
+          "excerpt": "New Business Licenses: 7.2.26 Richmond BizSense",
+          "levels": {
+            "Beginner": {
+              "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "aba21e7a9c9",
+          "source": "\"business OR company OR trade when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14ME9RTXVvcXdWM2QtQTA3NHZwYS1NZEdxenVPX05GcTRCSVRmYWN0UGg0OE9yakkzdjl2aGdFeXUyd1lYSklmRjNabElPS0Fiay1xVF9SUDNBY0tVTzFHcU9TUzJaZUNrUVgteVQ5RTRHUjd1S0V3WA?oc=5",
+          "published": "2026-07-02T15:00:45+09:00",
+          "category": "business"
+        },
+        {
+          "headline": "Jaylen Brown Trade Graded: USA Today Finds Clear Winner in Celtics-76ers Deal",
+          "excerpt": "A \"seismic deal\" involving star Jaylen Brown between the Boston Celtics and Philadelphia 76ers has been graded by USA Today, with one team emerging as a clear winner.",
+          "levels": {
+            "Beginner": {
+              "text": "There was a big basketball trade. It was between two famous teams, the Boston Celtics and the Philadelphia 76ers. A star player named Jaylen Brown was part of this trade. Many people think this trade is very important. News from USA Today says it was a \"seismic deal.\" This means it was a huge change for the teams.\n\nUSA Today looked at the trade closely. They gave it a \"grade.\" This grade tells us which team did better in the trade. After looking at everything, USA Today said there was a \"clear winner.\" This means one team got much more benefit from the trade than the other team.\n\nJaylen Brown is a very good player for the Celtics. He helps them score many points. Both the Celtics and the 76ers are strong teams in the NBA. They often play against each other in important games. A big trade like this can change how strong the teams are. It can even change who might win the championship. People will watch to see how this trade affects both teams in the future. It will be interesting to see how the \"clear winner\" uses their new advantage.",
+              "vocab": [
+                {
+                  "word": "Trade",
+                  "definition": "When sports teams exchange players or other assets."
+                },
+                {
+                  "word": "Star player",
+                  "definition": "A very important and skilled player on a team."
+                },
+                {
+                  "word": "Seismic deal",
+                  "definition": "A very big and important exchange that causes major changes."
+                },
+                {
+                  "word": "Grade",
+                  "definition": "A score or evaluation given to something."
+                },
+                {
+                  "word": "Clear winner",
+                  "definition": "One team that clearly got the best deal or outcome."
+                },
+                {
+                  "word": "Benefit",
+                  "definition": "Something good that helps or improves a situation."
+                }
+              ]
+            },
+            "Intermediate": {
+              "text": "A significant development has emerged in the world of professional basketball, as a major trade involving star player Jaylen Brown has been completed between two prominent NBA franchises: the Boston Celtics and the Philadelphia 76ers. This transaction, described by USA Today as a \"seismic deal,\" is expected to have substantial repercussions for both teams and potentially shift the competitive landscape of the league.\n\nUSA Today, a leading sports publication, has thoroughly analyzed the details of this high-profile exchange. Their assessment, commonly known as \"trade grades\" in sports journalism, evaluates the immediate and long-term implications for each organization involved. Following their comprehensive review, the publication concluded that there was a \"clear winner\" in this particular deal, indicating that one team gained a distinct advantage over the other.\n\nJaylen Brown is a foundational player for the Boston Celtics, known for his athleticism, scoring ability, and defensive contributions. His departure or acquisition would undoubtedly create a significant void or boost for any team. The Celtics and 76ers are long-standing rivals in the Eastern Conference, frequently competing for top spots and often clashing in intense playoff series. A trade of this magnitude between these two contenders is rare and carries immense strategic weight.\n\nSuch a \"seismic deal\" suggests that the trade involved key assets, likely impacting the teams' rosters, salary caps, and future draft capital. The concept of a \"clear winner\" implies that one general manager successfully leveraged their assets to a greater degree, securing a more favorable outcome that could enhance their team's chances for a championship. Fans and analysts alike will be closely monitoring how this major move influences the performance and trajectory of both the Celtics and the 76ers in the upcoming seasons. The outcome of this graded trade will shape narratives and expectations for both franchises.",
+              "vocab": [
+                {
+                  "word": "Significant",
+                  "definition": "Important or notable; having a great effect."
+                },
+                {
+                  "word": "Prominent",
+                  "definition": "Important and well-known; standing out."
+                },
+                {
+                  "word": "Seismic deal",
+                  "definition": "A very important and impactful exchange, causing big changes."
+                },
+                {
+                  "word": "Repercussions",
+                  "definition": "Consequences or effects, often negative or far-reaching."
+                },
+                {
+                  "word": "Assessment",
+                  "definition": "An evaluation or judgment of something."
+                },
+                {
+                  "word": "Foundational player",
+                  "definition": "A key player that a team is built around; essential to its structure."
+                },
+                {
+                  "word": "Leveraged",
+                  "definition": "Used something to maximum advantage or effect."
+                }
+              ]
+            },
+            "Advanced": {
+              "text": "The National Basketball Association landscape has been significantly altered by a blockbuster transaction involving All-Star wing Jaylen Brown, executed between two of the league's most storied franchises, the Boston Celtics and the Philadelphia 76ers. This high-stakes maneuver, which USA Today has characterized as a \"seismic deal,\" has immediately become a focal point of sports analysis, with the publication asserting a definitive \"clear winner\" in the exchange.\n\nUSA Today's comprehensive \"trade grades\" are a staple of sports journalism, offering immediate post-mortem evaluations of player movements. These assessments delve into various factors, including the talent acquired, the assets relinquished, salary cap implications, and the long-term strategic vision of each organization. In this instance, the pronouncement of a \"clear winner\" suggests a stark disparity in the perceived value obtained by the respective general managers, hinting at a potentially lopsided outcome that could reverberate through the Eastern Conference for seasons to come.\n\nJaylen Brown stands as a cornerstone player for the Boston Celtics, renowned for his two-way prowess, explosive athleticism, and consistent offensive production. His presence is integral to Boston's championship aspirations, making any potential trade involving him a monumental decision. The Celtics and 76ers share one of the NBA's most intense and enduring rivalries, frequently clashing in pivotal playoff matchups that often determine conference supremacy. A direct trade of this magnitude between such fiercely competitive adversaries is exceedingly rare and underscores the profound strategic calculations at play.\n\nA \"seismic deal\" implies that the transaction was not merely a minor roster adjustment but a fundamental re-shaping of at least one, if not both, franchises. Such a move typically involves significant draft capital, multiple players, or a combination of high-value assets, all aimed at either immediate contention or a strategic pivot towards future development. The determination of a \"clear winner\" by USA Today suggests that one team's front office adeptly navigated the complexities of negotiation, securing a package that demonstrably enhances their competitive standing while the other may face a more challenging path forward.\n\nThis type of high-profile player movement inevitably ignites fervent debate among fans and analysts regarding its immediate impact on championship odds and its long-term ramifications for team identity and culture. For the \"clear winner,\" the acquisition or divestment of Jaylen Brown likely aligns perfectly with their overarching strategic objectives, potentially elevating them closer to title contention or solidifying their future prospects. Conversely, the team deemed to have \"lost\" the trade will face heightened scrutiny and pressure to demonstrate how their new configuration can still achieve success. The fallout from this graded trade will undoubtedly be a dominant narrative as the league progresses, influencing power rankings and shaping expectations for both the Celtics and the 76ers.",
+              "vocab": [
+                {
+                  "word": "Blockbuster",
+                  "definition": "A very large, successful, or impactful event, often referring to a major transaction or production."
+                },
+                {
+                  "word": "Storied franchises",
+                  "definition": "Sports teams or organizations with a long and famous history, often marked by significant achievements."
+                },
+                {
+                  "word": "Focal point",
+                  "definition": "The center of attention, interest, or activity."
+                },
+                {
+                  "word": "Post-mortem evaluations",
+                  "definition": "Analyses or examinations conducted after an event has occurred, to understand its causes and effects."
+                },
+                {
+                  "word": "Disparity",
+                  "definition": "A great difference or inequality between two or more things."
+                },
+                {
+                  "word": "Reverberate",
+                  "definition": "To have a continuing and significant effect; to echo or resonate widely."
+                },
+                {
+                  "word": "Cornerstone player",
+                  "definition": "A fundamental and essential player around whom a team is built; a key component."
+                },
+                {
+                  "word": "Divestment",
+                  "definition": "The action or process of selling off assets or investments."
+                }
+              ]
+            }
+          },
+          "questions": [
+            {
+              "q": "What two NBA teams were involved in the trade mentioned in the article?",
+              "a": "The Boston Celtics and the Philadelphia 76ers."
+            },
+            {
+              "q": "According to USA Today's analysis, what was the outcome of the trade for the teams involved?",
+              "a": "USA Today determined there was a \"clear winner,\" meaning one team gained a distinct advantage or benefited more from the trade."
+            }
+          ],
+          "id": "a20cec0ac3c",
+          "source": "\"business OR company OR trade when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2VENWV1eG91eGl2S1dPdjYtZGFoODQxVG9HWU50aHpoZVdaZFZ1ZHJLd0hBMjlXVmRZRnN5VFlJbU9BcjdfNUpSZ2J5TTBFUWEtaHRhSmg0WEVEcXpza2xaWUJLRnYzaVF1VVdnZi1ONVlLcXRxRDBkdDBWUnFBUXRzYUJkTDdQZS1udG11YjB3Smd0WmNUSUZkLVpwYnBpby1UcEp1U0tkb2RKaTE1ZzV4enlQRDVmVWtxZ2NEYkhqLUpZQ19V?oc=5",
+          "published": "2026-07-02T14:19:00+09:00",
+          "category": "business"
+        },
+        {
+          "headline": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "excerpt": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+          "levels": {
+            "Beginner": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a8155d7ec47",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T14:16:53+09:00",
+          "category": "business"
+        },
+        {
+          "headline": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics - USA Today",
+          "excerpt": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics USA Today",
+          "levels": {
+            "Beginner": {
+              "text": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics USA Today",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics USA Today",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Jaylen Brown traded to 76ers for Paul George in deal that reshapes Sixers and Celtics USA Today",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "af3fbcd48db",
+          "source": "\"business OR company OR trade when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORU04ZFdmeFVXenJRYThOR3BEbVZvXzhpLWRsY3NuRzl0bnRQLWZIXzhCUzBuamlwVXhwVWdGNllyNmFVQ1l0Vmx6WDlTUGRpZ1l5WGxPalM5bGFGdGZqMFdsTS1iWVRGRjE3c1RiYmRjTTVNa0t4bTRPMDVlVUxKeFlkZWVPaGZ5ZlVuNnUyQTF0bGJscWNobUg3X2JBWDA4UG94SThvNTBnc2gtX01WYTAyOFRObUZ6YUE?oc=5",
+          "published": "2026-07-02T14:15:00+09:00",
+          "category": "business"
+        }
+      ]
     },
     {
       "key": "economics",
       "title": "Economics",
-      "articles": []
+      "articles": [
+        {
+          "headline": "UBS already has enough capital to meet new government requirements: Swiss central bank - The Business Times",
+          "excerpt": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+          "levels": {
+            "Beginner": {
+              "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a60182b01dd",
+          "source": "\"economy OR inflation OR GDP OR central bank when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXNrd21WMnVGSkQ1TkNBQ2FOYzNobU12bE5GRE5TWkQ1NDkzVEc1RmJKNkhvS1lGd2hZM3VPb19oVy1HN3lPU0tQclZXVVpKUDVFYzl5Qm9BdXNfZjhYaWxQR0JRU0FuSmcwNE53MW4tWGdvSXFQV0I5NkZGTXE2S0hLcjJkSXB3bVBUMVJpamprTWNmYTBOc3pNVkVHZGFwdFplTDhkbUM5MGNkVjdLNmREZEF0aF9VUVpxbmZVRUFud3lZLXhQd1dTdFFSR3IybUdYcW9FNnZLTWRPN2NxMXBYcw?oc=5",
+          "published": "2026-07-02T15:17:00+09:00",
+          "category": "economics"
+        },
+        {
+          "headline": "UK cost of living squeeze eases after record fall in diesel prices, and drop in mortgage rates – business live",
+          "excerpt": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rat",
+          "levels": {
+            "Beginner": {
+              "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a56d88ac4d8",
+          "source": "Economics | The Guardian",
+          "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
+          "published": "2026-07-02T15:15:17+09:00",
+          "category": "economics"
+        },
+        {
+          "headline": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+          "excerpt": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+          "levels": {
+            "Beginner": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "acc10ba7532",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T15:02:17+09:00",
+          "category": "economics"
+        },
+        {
+          "headline": "ECB Split on Next Rate Move as Inflation Sinks - Bloomberg.com",
+          "excerpt": "ECB Split on Next Rate Move as Inflation Sinks Bloomberg.com",
+          "levels": {
+            "Beginner": {
+              "text": "ECB Split on Next Rate Move as Inflation Sinks Bloomberg.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "ECB Split on Next Rate Move as Inflation Sinks Bloomberg.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "ECB Split on Next Rate Move as Inflation Sinks Bloomberg.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a80e6fb324c",
+          "source": "\"economy OR inflation OR GDP OR central bank when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjZSbElGR1pBeE15bjVKUXNiazdlc1NycG8wRGQ0bU5pZnZrOW5SZUIycEdHMURHWjRSd214M3lxVEY3SDJDSjcxSmZBLXM5MHp5a3Rndk1sYTlGdktORldKOGZmU3dVVHJjZVlHbF9SMUZDVjRIRFByTWlzbjhOSnhFbXJOWEU4N0RtOWdSX3RjcWpFU2JZMUxydmJWWVE1b2c?oc=5",
+          "published": "2026-07-02T15:00:00+09:00",
+          "category": "economics"
+        },
+        {
+          "headline": "Sinking yen and robust economy support BOJ case for earlier rate hike - The Japan Times",
+          "excerpt": "Sinking yen and robust economy support BOJ case for earlier rate hike The Japan Times",
+          "levels": {
+            "Beginner": {
+              "text": "Sinking yen and robust economy support BOJ case for earlier rate hike The Japan Times",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Sinking yen and robust economy support BOJ case for earlier rate hike The Japan Times",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Sinking yen and robust economy support BOJ case for earlier rate hike The Japan Times",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "af56bb39407",
+          "source": "\"economy OR inflation OR GDP OR central bank when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3FLZldHb2gyNkk3ZFpGcWJqZjlOR1NhX0k5UHp5bVZYdXplOHpqZlpwd2xtVnIzVGI0N2xOc1V4V2diekRoRFNoWnZ6cHR3c3NpcUNMVWdzSGJWcm5VQTcxV3lnU0ctYlRWcUx1X05yanB2WFlSajZjOXprZHVTLS1nb3hYdUZxMmpuY1FMdzlidw?oc=5",
+          "published": "2026-07-02T14:25:00+09:00",
+          "category": "economics"
+        }
+      ]
     },
     {
       "key": "politics",
       "title": "Politics",
-      "articles": []
+      "articles": [
+        {
+          "headline": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+          "excerpt": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say",
+          "levels": {
+            "Beginner": {
+              "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "aa855016e06",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T15:07:11+09:00",
+          "category": "politics"
+        },
+        {
+          "headline": "How cryptocurrencies are changing global politics - Times Kuwait",
+          "excerpt": "How cryptocurrencies are changing global politics Times Kuwait",
+          "levels": {
+            "Beginner": {
+              "text": "How cryptocurrencies are changing global politics Times Kuwait",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "How cryptocurrencies are changing global politics Times Kuwait",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "How cryptocurrencies are changing global politics Times Kuwait",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a3a3e192ba1",
+          "source": "\"world politics OR government OR election when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41dTg3MGhITkl5OE4xRGFxLURaWEtfSkZsc3g2MHRPYmh5S05HSkRwTjFWbnFaRVlJODFkM05tbmgxbHF2bGwzNEo4ZGd1ZmUtcXIwODlIVWxqOTBKR1RueFNzTXE0Z0ZReDY0eUM1RDdxUUN4TlRhaE1ud1Vxem8?oc=5",
+          "published": "2026-07-02T14:58:22+09:00",
+          "category": "politics"
+        },
+        {
+          "headline": "Burnham’s No 10 North: could two-centre government be made to work?",
+          "excerpt": "Plan to move part of Whitehall to Manchester wins praise but would involve major logistical challenges and costs ‘It’s a stellar idea’: read",
+          "levels": {
+            "Beginner": {
+              "text": "Plan to move part of Whitehall to Manchester wins praise but would involve major logistical challenges and costs ‘It’s a stellar idea’: readers on Andy Burnham’s No 10 North plans It first found fame as the centre of Manchester’s textile industry and later as the home of celebrated nightclub Sankeys. But now Ancoats, on the northern edge of Manchester city centre, could become the somewhat unexpected heart of British government. The site of a disused retail park, which was once home to Toys R Us, Argos and JD Sports, has been earmarked to host the new No 10 North that prime minister-in-waiting Andy Burnham has pledged to set up. Continue reading...",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Plan to move part of Whitehall to Manchester wins praise but would involve major logistical challenges and costs ‘It’s a stellar idea’: readers on Andy Burnham’s No 10 North plans It first found fame as the centre of Manchester’s textile industry and later as the home of celebrated nightclub Sankeys. But now Ancoats, on the northern edge of Manchester city centre, could become the somewhat unexpected heart of British government. The site of a disused retail park, which was once home to Toys R Us, Argos and JD Sports, has been earmarked to host the new No 10 North that prime minister-in-waiting Andy Burnham has pledged to set up. Continue reading...",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Plan to move part of Whitehall to Manchester wins praise but would involve major logistical challenges and costs ‘It’s a stellar idea’: readers on Andy Burnham’s No 10 North plans It first found fame as the centre of Manchester’s textile industry and later as the home of celebrated nightclub Sankeys. But now Ancoats, on the northern edge of Manchester city centre, could become the somewhat unexpected heart of British government. The site of a disused retail park, which was once home to Toys R Us, Argos and JD Sports, has been earmarked to host the new No 10 North that prime minister-in-waiting Andy Burnham has pledged to set up. Continue reading...",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a9812d3d584",
+          "source": "Politics | The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/02/burnhams-no-10-north-could-two-centre-government-be-made-to-work",
+          "published": "2026-07-02T14:00:08+09:00",
+          "category": "politics"
+        },
+        {
+          "headline": "Starmer’s goodbye gift to Britain: a US pharma deal that could be more lethal than Covid | Aditya Chakrabortty",
+          "excerpt": "This shadowy treaty on medicine imports will cost the NHS billions and take funding away from doctors, nurses, cancer scans and the rest For",
+          "levels": {
+            "Beginner": {
+              "text": "This shadowy treaty on medicine imports will cost the NHS billions and take funding away from doctors, nurses, cancer scans and the rest For all the crowd noise and heavy-breathing match analysis, British democracy is a simple sport. We elect politicians to serve our interests. They direct the vital services that look after our families and communities, such as our healthcare and our schools. The entire political system rests on one basic premise: they work for us. Believe that, as I do, and this week is one of vast democratic failure. Rather than working for us, Keir Starmer and his ministers are acting against us. They have rammed through parliament a sweeping law that will, independent experts agree, harm the public; and they have done so without even coming clean on the costs or the consequences. What’s worse, MPs and the press have failed to put this under scrutiny. Aditya Chakrabortty is a Guardian columnist Continue reading...",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "This shadowy treaty on medicine imports will cost the NHS billions and take funding away from doctors, nurses, cancer scans and the rest For all the crowd noise and heavy-breathing match analysis, British democracy is a simple sport. We elect politicians to serve our interests. They direct the vital services that look after our families and communities, such as our healthcare and our schools. The entire political system rests on one basic premise: they work for us. Believe that, as I do, and this week is one of vast democratic failure. Rather than working for us, Keir Starmer and his ministers are acting against us. They have rammed through parliament a sweeping law that will, independent experts agree, harm the public; and they have done so without even coming clean on the costs or the consequences. What’s worse, MPs and the press have failed to put this under scrutiny. Aditya Chakrabortty is a Guardian columnist Continue reading...",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "This shadowy treaty on medicine imports will cost the NHS billions and take funding away from doctors, nurses, cancer scans and the rest For all the crowd noise and heavy-breathing match analysis, British democracy is a simple sport. We elect politicians to serve our interests. They direct the vital services that look after our families and communities, such as our healthcare and our schools. The entire political system rests on one basic premise: they work for us. Believe that, as I do, and this week is one of vast democratic failure. Rather than working for us, Keir Starmer and his ministers are acting against us. They have rammed through parliament a sweeping law that will, independent experts agree, harm the public; and they have done so without even coming clean on the costs or the consequences. What’s worse, MPs and the press have failed to put this under scrutiny. Aditya Chakrabortty is a Guardian columnist Continue reading...",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a00b94927dc",
+          "source": "Politics | The Guardian",
+          "link": "https://www.theguardian.com/commentisfree/2026/jul/02/keir-starmer-britain-pharma-deal-covid",
+          "published": "2026-07-02T14:00:07+09:00",
+          "category": "politics"
+        },
+        {
+          "headline": "‘It’s a stellar idea’: readers on Andy Burnham’s No 10 North plans",
+          "excerpt": "Some hail the opportunities greater devolution could bring, while others question the cost Burnham’s No 10 North: could two-centre governmen",
+          "levels": {
+            "Beginner": {
+              "text": "Some hail the opportunities greater devolution could bring, while others question the cost Burnham’s No 10 North: could two-centre government be made to work? Andy Burnham has said if he becomes prime minister, he would create a new “No 10 North” in Manchester as the “nerve centre of a rewired Britain” to oversee a devolution of power and resources across the UK. While full details of how this will work have not yet been made available, we asked Britons what they thought of the idea in principle. Continue reading...",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Some hail the opportunities greater devolution could bring, while others question the cost Burnham’s No 10 North: could two-centre government be made to work? Andy Burnham has said if he becomes prime minister, he would create a new “No 10 North” in Manchester as the “nerve centre of a rewired Britain” to oversee a devolution of power and resources across the UK. While full details of how this will work have not yet been made available, we asked Britons what they thought of the idea in principle. Continue reading...",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Some hail the opportunities greater devolution could bring, while others question the cost Burnham’s No 10 North: could two-centre government be made to work? Andy Burnham has said if he becomes prime minister, he would create a new “No 10 North” in Manchester as the “nerve centre of a rewired Britain” to oversee a devolution of power and resources across the UK. While full details of how this will work have not yet been made available, we asked Britons what they thought of the idea in principle. Continue reading...",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "aff3610bac9",
+          "source": "Politics | The Guardian",
+          "link": "https://www.theguardian.com/politics/2026/jul/02/its-a-stellar-idea-readers-on-andy-burnhams-no-10-north-plans",
+          "published": "2026-07-02T14:00:07+09:00",
+          "category": "politics"
+        }
+      ]
     },
     {
       "key": "sports",
       "title": "Sports",
-      "articles": []
+      "articles": [
+        {
+          "headline": "All Day Sports Camp Teaches Skills - theintermountain.com",
+          "excerpt": "All Day Sports Camp Teaches Skills theintermountain.com",
+          "levels": {
+            "Beginner": {
+              "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "afbb95ae849",
+          "source": "\"sports when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2xMX2M5ZG15SkRYVlB6MTdFQkQ1U2dIUFkwc3hUQkpzRl8wTV84Z3A0MWNJYW5ONldwSXpIaFc1OTJ1aWJkWkMtaXJBLTVkdVlvcHhibHVEMXg3aTAzTUNpbkNOYUt3OE9yWHg1Wm94anpqcmhQamk3XzkxTU9zM1ktU01wOHEycXFDWGJTQmRrdlhUdUpr?oc=5",
+          "published": "2026-07-02T15:00:00+09:00",
+          "category": "sports"
+        },
+        {
+          "headline": "U.S. advances to round of 16 of World Cup - nujournal.com",
+          "excerpt": "U.S. advances to round of 16 of World Cup nujournal.com",
+          "levels": {
+            "Beginner": {
+              "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a1fec7d8c49",
+          "source": "\"sports when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlV2Y1FUTm9TNjA4YWF4Z3p6U1VUVE83dXMtaV9sTUVtX204ZldNdENlQmVXS1N3aUY1NUpXOE1SdzdHUmZ0amp3N1NuQzhjWTBGejdIQVl3R2lZUmwzTzVseTN6UXBMczdtaGNNeENVTnF5dWUyMENFOUg4RTVmbGNLU0drWnFlVktlV0QwejNKb21fcVhLWVFsRHhaQ3lWbjIyQ2l2RUNkWXZB?oc=5",
+          "published": "2026-07-02T15:00:00+09:00",
+          "category": "sports"
+        },
+        {
+          "headline": "Real Madrid offer 23-year-old midfielder to Manchester City - Yahoo Sports",
+          "excerpt": "Real Madrid offer 23-year-old midfielder to Manchester City Yahoo Sports",
+          "levels": {
+            "Beginner": {
+              "text": "Real Madrid offer 23-year-old midfielder to Manchester City Yahoo Sports",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Real Madrid offer 23-year-old midfielder to Manchester City Yahoo Sports",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Real Madrid offer 23-year-old midfielder to Manchester City Yahoo Sports",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "aca5f107c64",
+          "source": "\"sports when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rd00xaHh3Rm1MNE1xbmJ1cTY4VVFzNExGRHBQT0NfcGNjMjZDeDdkSDJjVll3Y3h1OThPTGRPeEN1REdTVV9TOHZuYnlFT3VYTG1USUFYU1NMWXNZYkJkQVNwbU9WcmVRdmtac1ZXT3lRMEg0YTJ5SFRQUWhlUQ?oc=5",
+          "published": "2026-07-02T15:00:00+09:00",
+          "category": "sports"
+        },
+        {
+          "headline": "Becker bolsters Blackhawks in state title season - nujournal.com",
+          "excerpt": "Becker bolsters Blackhawks in state title season nujournal.com",
+          "levels": {
+            "Beginner": {
+              "text": "Becker bolsters Blackhawks in state title season nujournal.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Becker bolsters Blackhawks in state title season nujournal.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Becker bolsters Blackhawks in state title season nujournal.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a8956080305",
+          "source": "\"sports when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjJWYnlzbVM2Skxsc0NEejFwRWdfMFhBQllFU0diMUYyNjVQSTE0NEpUekdxN19HdUZXcUtDSzNLSXJTeDNXczlNdTY4ek1MbXJSN0I2aVZiZmJxRVhPQzg2eE93d0FiZEVfUVRESFNFNThfMkN0aG5IaVcwanUzYklwcVhlRC1zMktGVUJKMlY5SkJFbXlManI1Y0ZUbnRtMWozWkVsNTJHdw?oc=5",
+          "published": "2026-07-02T15:00:00+09:00",
+          "category": "sports"
+        },
+        {
+          "headline": "Giants Finally End Skid with 6-4 Triumph - Yahoo Sports",
+          "excerpt": "Giants Finally End Skid with 6-4 Triumph Yahoo Sports",
+          "levels": {
+            "Beginner": {
+              "text": "Giants Finally End Skid with 6-4 Triumph Yahoo Sports",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Giants Finally End Skid with 6-4 Triumph Yahoo Sports",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Giants Finally End Skid with 6-4 Triumph Yahoo Sports",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "aad417d31d8",
+          "source": "\"sports when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LYXZmd3ZHN21mNVlBR3VXMnU5eVlkQ0tsM3BXVEs3N0ZaS0pFQ2xBcFhyMnZJSU14c0VraUFmeVJoaW9LMS1xR21lNDNVekxkZXJ0MmlXYV9aeUhtSnhVRS1mejNKZ3ZEUTNoVHdrQzhTb2I2UnA1d1JWbEJaMXM?oc=5",
+          "published": "2026-07-02T14:54:00+09:00",
+          "category": "sports"
+        }
+      ]
     },
     {
       "key": "finance",
       "title": "Finance",
-      "articles": []
+      "articles": [
+        {
+          "headline": "JL Mag Rare-Earth Stock Surges Amid Market Interest",
+          "excerpt": "JL Mag Rare-Earth's stock is surging, drawing attention to the company's role in the critical rare-earth elements market.",
+          "levels": {
+            "Beginner": {
+              "text": "The stock of a company called JL Mag Rare-Earth went up a lot today. When a stock goes up, it means more people want to buy it. This company works with special materials called \"rare-earth elements.\" These elements are very important for many things we use every day. For example, rare-earth elements are found in your smartphone, computer, and even electric cars. They help these devices work well and be smaller.\n\nRare-earth elements are a group of special metals. They are not really rare to find, but they are hard to dig out of the ground and make ready to use. Because they are so important for modern technology, companies that work with them, like JL Mag Rare-Earth, are watched closely by investors. A stock surge often happens when there is good news about the company or its products, or when people think the company will do well in the future. This shows how important rare-earth elements are for new technologies and the world economy.",
+              "vocab": [
+                {
+                  "word": "stock",
+                  "definition": "A small part of a company that you can buy and sell."
+                },
+                {
+                  "word": "surging",
+                  "definition": "Going up very quickly or strongly."
+                },
+                {
+                  "word": "rare-earth elements",
+                  "definition": "A group of special metals used in many high-tech products."
+                },
+                {
+                  "word": "materials",
+                  "definition": "Things used to make other things."
+                },
+                {
+                  "word": "technology",
+                  "definition": "The use of science in industry, engineering, etc., to invent useful things or to solve problems."
+                },
+                {
+                  "word": "investors",
+                  "definition": "People who put money into a company hoping to make more money."
+                }
+              ]
+            },
+            "Intermediate": {
+              "text": "JL Mag Rare-Earth's stock experienced a significant surge today, attracting considerable attention from investors. The company specializes in rare-earth elements, which are vital components for a wide range of modern industries and technologies. Rare-earth elements are a group of 17 metallic elements that are crucial for high-tech products, despite their name suggesting extreme scarcity. They are essential for the production of items such as smartphones, laptop computers, electric vehicles, wind turbines, and advanced defense systems.\n\nA stock surge typically indicates strong market confidence in a company or positive developments within its sector. This could be driven by various factors, including increased global demand for rare-earth products, new contracts secured by the company, or favorable market conditions for the rare-earth industry as a whole. The rare-earth market holds strategic importance globally, as many countries are keen to secure reliable supplies of these elements to support their technological advancements and economic growth.\n\nJL Mag Rare-Earth's performance today highlights the dynamic nature of this critical sector. Its stock movement often reflects broader trends and investor interest in companies that supply essential components for the green energy transition and the expanding digital economy. The company's role in providing these indispensable materials makes its market activity a key indicator for the health and future direction of the rare-earth industry.",
+              "vocab": [
+                {
+                  "word": "significant",
+                  "definition": "Important or noticeable."
+                },
+                {
+                  "word": "specializes",
+                  "definition": "Focuses on a particular area or product."
+                },
+                {
+                  "word": "vital",
+                  "definition": "Extremely important or necessary."
+                },
+                {
+                  "word": "metallic",
+                  "definition": "Relating to or made of metal."
+                },
+                {
+                  "word": "confidence",
+                  "definition": "A feeling of trust or belief in someone or something."
+                },
+                {
+                  "word": "strategic importance",
+                  "definition": "Being very important for a country's plans, especially for defense or economy."
+                },
+                {
+                  "word": "dynamic",
+                  "definition": "Constantly changing or progressing."
+                }
+              ]
+            },
+            "Advanced": {
+              "text": "JL Mag Rare-Earth, a prominent player in the critical rare-earth elements sector, witnessed a substantial surge in its stock valuation today, capturing considerable market attention. This upward trajectory underscores the volatile yet strategically crucial nature of the rare-earth industry, which underpins numerous advanced technologies globally.\n\nRare-earth elements (REEs) comprise a group of 17 chemically similar metallic elements that are indispensable for a vast array of high-technology applications. Despite their misleading name, they are not exceptionally rare in the Earth's crust but are challenging and costly to extract and process economically. They are fundamental components in consumer electronics (such as smartphones and laptops), renewable energy technologies (including wind turbines and electric vehicle motors), medical imaging devices, and advanced defense systems. The unique magnetic, luminescent, and catalytic properties of REEs make them irreplaceable in these applications.\n\nA sudden spike in a company's stock price, particularly one operating in a specialized commodity market like REEs, can be attributed to several factors. These might include anticipation of robust demand driven by global electrification initiatives, favorable policy shifts impacting the industry, breakthroughs in extraction or processing technologies, or the securing of significant new supply contracts. The global rare-earth market is characterized by complex supply chains and geopolitical sensitivities, with nations worldwide actively pursuing strategies to diversify their rare-earth sourcing and processing capabilities, aiming to reduce reliance on single suppliers and enhance national security.\n\nJL Mag Rare-Earth's performance today serves as a barometer for investor sentiment within this critical sector. Its market movement often reflects broader economic indicators, technological advancements, and the ongoing global push towards electrification and digitalization. The company's position as a key supplier of rare-earth permanent magnets, essential for high-performance motors and generators, places it at the nexus of these transformative trends. Analysts will be scrutinizing the underlying catalysts for this surge, as it could signal emerging opportunities or challenges within the broader rare-earth landscape. The sustained demand for REEs, driven by the accelerating energy transition and technological innovation, ensures that companies like JL Mag Rare-Earth remain under intense investor scrutiny.",
+              "vocab": [
+                {
+                  "word": "prominent",
+                  "definition": "Important or well-known."
+                },
+                {
+                  "word": "substantial",
+                  "definition": "Of considerable importance, size, or worth."
+                },
+                {
+                  "word": "trajectory",
+                  "definition": "The path or course followed by a moving object or a trend."
+                },
+                {
+                  "word": "indispensable",
+                  "definition": "Absolutely necessary or essential."
+                },
+                {
+                  "word": "attributed",
+                  "definition": "Regarded as belonging to or caused by."
+                },
+                {
+                  "word": "geopolitical",
+                  "definition": "Relating to politics, especially international relations, as influenced by geographical factors."
+                },
+                {
+                  "word": "barometer",
+                  "definition": "Something that indicates changes in something else."
+                },
+                {
+                  "word": "nexus",
+                  "definition": "A connection or series of connections linking two or more things; a central or focal point."
+                }
+              ]
+            }
+          },
+          "questions": [
+            {
+              "q": "What kind of special materials does JL Mag Rare-Earth work with?",
+              "a": "JL Mag Rare-Earth works with rare-earth elements."
+            },
+            {
+              "q": "Name two types of modern technology that use rare-earth elements.",
+              "a": "Rare-earth elements are used in smartphones, electric cars, computers, and wind turbines."
+            }
+          ],
+          "id": "a8d49011f08",
+          "source": "\"stock market OR finance OR markets OR investing when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVllUdHdoNC1uczdqQktEa2VFRFdxaHFDNU9oMnpBRnpHR3g1YVdOeEhMbFlhaGg0RjJzek1aVTJUYWYtMmRTd2lGS0otcHdLa2k2RG5CYmZZbHNhUWM0Rm1BaXlPTkd3Y3Z5UzJ6blRBdFlhSVRza2VyRU04RmZTZlhId0ZUV1VOcURSNk90ZGdNUnFyQzFnY0RHT1c1VGkxNTRpaHB3MA?oc=5",
+          "published": "2026-07-02T15:08:19+09:00",
+          "category": "finance"
+        },
+        {
+          "headline": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market - The Motley Fool",
+          "excerpt": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+          "levels": {
+            "Beginner": {
+              "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a3b6be465ee",
+          "source": "\"stock market OR finance OR markets OR investing when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmdYOWgtWVI1c2d2TWZnazJqTmROdFE1Mjg5a2d3THN3WjloWndNN1MxYk9SaTh0U1JPVUFMZ1ZjVnZhQklkbzN2UzdvcjhsR0M3ZG9iSDNaOHpxek9vUEZub0JiOWlieGV1U2RDcHVpbzJnVEQ2RFdNZElmajliUjY1N2xQVEIwcDBBaHR2NkhhcGlqcXp5QQ?oc=5",
+          "published": "2026-07-02T15:04:50+09:00",
+          "category": "finance"
+        },
+        {
+          "headline": "Singapore seizes $42m mansion over Nvidia chip smuggling",
+          "excerpt": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+          "levels": {
+            "Beginner": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "The luxury home was seized as part of a probe into the illegal trade of servers containing AI semiconductors.",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "acc10ba7532",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T15:02:17+09:00",
+          "category": "finance"
+        },
+        {
+          "headline": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors - The Motley Fool",
+          "excerpt": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for ",
+          "levels": {
+            "Beginner": {
+              "text": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors The Motley Fool",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors The Motley Fool",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "The Stock Market Is on the Verge of Doing Something for the First Time in 155 Years, and History Is Crystal Clear on What It Could Mean for Investors The Motley Fool",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a1cec52d58f",
+          "source": "\"stock market OR finance OR markets OR investing when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTJkUzk3RmhRTWZzM1hDQVpYY0VfUnFGVjE0X1V1OTdRT3FoYjE2SXZtbmxWR2Fwa0VNOUZET3Rscmd3eXUwcE5vSjZTUXY3WHNJX3hPUHBDQ01ENENtai1Lemh1TnNNanNRSDQwWTBGRzR1OVJXYjR1ZTdtSDFRRk1URFdsR3ZKVm1lcVVPdTI3Q05zSWFGSg?oc=5",
+          "published": "2026-07-02T14:27:43+09:00",
+          "category": "finance"
+        },
+        {
+          "headline": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "excerpt": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+          "levels": {
+            "Beginner": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Steven, who now runs his own therapy business, struggled to make ends meet after graduating.",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a8155d7ec47",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T14:16:53+09:00",
+          "category": "finance"
+        }
+      ]
     },
     {
       "key": "entertainment",
       "title": "Entertainment",
-      "articles": []
+      "articles": [
+        {
+          "headline": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" - Metal Underground.com",
+          "excerpt": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+          "levels": {
+            "Beginner": {
+              "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a2f6d251893",
+          "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tdlBuaWswSmFLQklwZ2dqNTVlMkVNNE12cG5xT2RMdTZuVEZtOUxlY3JxMzQ1N3ZYMElmOW1lOFRXR3VNaWRZeUVRb25EYXdQUlBiQ3JoR0ZxWDdpR0JVc0MtUkFPU2l1S3AtOG9MYw?oc=5",
+          "published": "2026-07-02T15:07:00+09:00",
+          "category": "entertainment"
+        },
+        {
+          "headline": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) - The Hollywood Reporter",
+          "excerpt": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+          "levels": {
+            "Beginner": {
+              "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "ab50f861b1a",
+          "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhsVHZIWkM2UzB1TzQyUWNVXzRMYTkxaENwcWJodE8weGl4UDlkemloY0ZySWpvYWFudm5Ma05GOU50UDBaMjF2TzRjaUpVVW14OFc4Ymt2WkNfMlF2RHM1WGhYOHJ0aTRNM0E0NzdCaVNwYzc5ZVBudDZRTDI5WlhUQmhMMUc4cmVURi1LT0ZTVGpVcEdSTEMtU1BWdV9hbk5maDZnUTNiUzU0TnNSYWdnS2lBNi0wYzFN?oc=5",
+          "published": "2026-07-02T15:00:18+09:00",
+          "category": "entertainment"
+        },
+        {
+          "headline": "New Film 'Khashaba' to Tell Story of Olympic Wrestler",
+          "excerpt": "Jio Studios unveils teaser and release date for 'Khashaba,' a Marathi film about Indian Olympic wrestler Khashaba Dadasaheb Jadhav.",
+          "levels": {
+            "Beginner": {
+              "text": "A new film called 'Khashaba' is coming soon. It is about a famous Indian wrestler named Khashaba Dadasaheb Jadhav. He was a very important sports hero for India. Jadhav won a medal at the Olympic Games in 1952. This was a bronze medal for wrestling. He was the first Indian to win an individual Olympic medal. This made him a legend.\n\nThe film is made by Jio Studios and Aatpat Productions. Nagraj Manjule is the director. He is a well-known filmmaker in India. He has made other popular Marathi films like 'Sairat' and 'Fandry'. 'Sairat' was a very big hit in 2016. 'Fandry' also won an important award.\n\n'Khashaba' is a Marathi-language film. It tells the true story of Jadhav's life. The filmmakers have now shown a short preview, called a teaser. They have also told everyone when the film will be released around the world. People are excited to see this movie about a great Indian sportsman. It will show his journey and how he became an Olympic champion.",
+              "vocab": [
+                {
+                  "word": "Film",
+                  "definition": "a movie."
+                },
+                {
+                  "word": "Wrestler",
+                  "definition": "a person who fights in wrestling."
+                },
+                {
+                  "word": "Medal",
+                  "definition": "a metal disc given as an award."
+                },
+                {
+                  "word": "Director",
+                  "definition": "the person who makes a film."
+                },
+                {
+                  "word": "Teaser",
+                  "definition": "a short preview of a film."
+                },
+                {
+                  "word": "Released",
+                  "definition": "made available to the public."
+                }
+              ]
+            },
+            "Intermediate": {
+              "text": "Jio Studios and Aatpat Productions have announced exciting news for film enthusiasts, unveiling a teaser and the global release date for 'Khashaba.' This upcoming Marathi-language biographical sports drama is directed by the acclaimed filmmaker Nagraj Manjule. The film will bring to life the inspiring journey of Khashaba Dadasaheb Jadhav, a legendary Indian Olympic wrestler.\n\nKhashaba Dadasaheb Jadhav holds a significant place in India's sports history. He was the first Indian to win an individual Olympic medal after the country gained independence. Jadhav achieved this remarkable feat at the 1952 Helsinki Olympic Games, where he secured a bronze medal in wrestling. His achievement was a moment of immense national pride and paved the way for future Indian Olympians. The film aims to explore his struggles, dedication, and ultimate triumph on the world stage.\n\nNagraj Manjule is renowned for his powerful storytelling and realistic portrayal of social issues, particularly in Marathi cinema. His previous works include the critically acclaimed 'Fandry,' which won an Indian National Film Award, and the blockbuster 'Sairat' (2016), which became one of the highest-grossing Marathi films of all time. 'Khashaba' marks Manjule's return to Marathi-language filmmaking, a move eagerly anticipated by his fans and critics alike.\n\nThe unveiling of the teaser offers a first glimpse into the film's narrative and visual style, building anticipation for its worldwide release. As a biographical sports drama, 'Khashaba' is expected to not only celebrate Jadhav's athletic prowess but also delve into the personal and societal challenges he overcame. This film is poised to be a significant cultural event, shining a light on an often-unsung hero of Indian sports.",
+              "vocab": [
+                {
+                  "word": "Unveiling",
+                  "definition": "showing or revealing something for the first time."
+                },
+                {
+                  "word": "Biographical",
+                  "definition": "telling the story of a person's life."
+                },
+                {
+                  "word": "Acclaimed",
+                  "definition": "praised or highly regarded."
+                },
+                {
+                  "word": "Legendary",
+                  "definition": "very famous and admired."
+                },
+                {
+                  "word": "Significant",
+                  "definition": "important or notable."
+                },
+                {
+                  "word": "Renowned",
+                  "definition": "known or talked about by many people; famous."
+                },
+                {
+                  "word": "Anticipation",
+                  "definition": "a feeling of excitement about something that is going to happen."
+                }
+              ]
+            },
+            "Advanced": {
+              "text": "Jio Studios, in collaboration with Aatpat Productions, has officially unveiled the highly anticipated teaser and confirmed the worldwide release date for 'Khashaba,' a Marathi-language biographical sports drama. Helmed by the celebrated filmmaker Nagraj Manjule, the film is poised to chronicle the extraordinary life and indelible legacy of Khashaba Dadasaheb Jadhav, a pioneering figure in Indian sports history.\n\nKhashaba Dadasaheb Jadhav holds a unique and revered position as India's first individual Olympic medalist following the nation's independence. His monumental achievement came at the 1952 Helsinki Olympic Games, where he secured a bronze medal in wrestling. This triumph was not merely a personal victory but a profound moment of national pride, offering a beacon of hope and inspiration to a newly independent India. Jadhav's journey, marked by immense dedication and perseverance against considerable odds, laid a crucial foundation for subsequent generations of Indian athletes on the global stage. The film is expected to meticulously portray his humble beginnings, the rigorous training regimes, and the societal and financial hurdles he navigated to reach the pinnacle of international sport.\n\nNagraj Manjule, known for his distinctive cinematic voice, returns to Marathi filmmaking with 'Khashaba.' His oeuvre is characterized by a raw realism and a poignant exploration of social stratification and human resilience, often set against rural Maharashtra. Manjule's previous directorial ventures, such as the critically lauded 'Fandry' (an Indian National Film Award recipient) and the commercially colossal 'Sairat' (2016), have not only garnered widespread critical acclaim but also achieved unprecedented box office success, reshaping the landscape of Marathi cinema. 'Sairat,' in particular, broke numerous records and resonated deeply with audiences for its unflinching portrayal of caste-based discrimination and forbidden love. His return to a Marathi narrative, especially one with such historical and emotional resonance, is keenly awaited by both cinephiles and cultural commentators.\n\nThe release of the teaser provides an initial glimpse into Manjule's interpretative vision for Jadhav's story, hinting at the film's aesthetic and narrative thrust. As a biographical sports drama, 'Khashaba' is anticipated to transcend mere athletic spectacle, offering a nuanced examination of Jadhav's character, his personal sacrifices, and the broader socio-political context of his era. It promises to be more than just a sports film; it is expected to be a compelling human story that celebrates an unsung national hero while also reflecting on themes of determination, identity, and the pursuit of excellence. This cinematic endeavor is set to reignite public interest in Jadhav's legacy and further cement Manjule's reputation as a filmmaker of significant cultural import.",
+              "vocab": [
+                {
+                  "word": "Helmed",
+                  "definition": "directed or led a project, organization, or activity."
+                },
+                {
+                  "word": "Chronicle",
+                  "definition": "to record a series of events in a factual and detailed way."
+                },
+                {
+                  "word": "Indelible",
+                  "definition": "making a lasting impression; unforgettable or permanent."
+                },
+                {
+                  "word": "Monumental",
+                  "definition": "extremely important, significant, or great in scope or extent."
+                },
+                {
+                  "word": "Oeuvre",
+                  "definition": "the complete works of an artist, composer, or writer."
+                },
+                {
+                  "word": "Stratification",
+                  "definition": "the arrangement or classification of something into different groups or layers, often referring to social hierarchy."
+                },
+                {
+                  "word": "Resonated",
+                  "definition": "evoked or shared a feeling of understanding or emotion; had a deep and lasting effect."
+                },
+                {
+                  "word": "Nuanced",
+                  "definition": "characterized by subtle shades of meaning or expression; having subtle distinctions."
+                }
+              ]
+            }
+          },
+          "questions": [
+            {
+              "q": "What is the main subject of the film 'Khashaba'?",
+              "a": "The film 'Khashaba' tells the true story of Indian Olympic wrestler Khashaba Dadasaheb Jadhav."
+            },
+            {
+              "q": "What significant achievement is Khashaba Dadasaheb Jadhav known for?",
+              "a": "Khashaba Dadasaheb Jadhav is known for being the first Indian to win an individual Olympic medal, a bronze in wrestling, at the 1952 Helsinki Olympic Games."
+            }
+          ],
+          "id": "a22cf93c876",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/nagraj-manjule-khashaba-teaser-jio-studios-1236799319/",
+          "published": "2026-07-02T14:44:26+09:00",
+          "category": "entertainment"
+        },
+        {
+          "headline": "Blaine Harbor Music Festival celebrates 25th anniversary - thenorthernlight.com",
+          "excerpt": "Blaine Harbor Music Festival celebrates 25th anniversary thenorthernlight.com",
+          "levels": {
+            "Beginner": {
+              "text": "Blaine Harbor Music Festival celebrates 25th anniversary thenorthernlight.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Blaine Harbor Music Festival celebrates 25th anniversary thenorthernlight.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Blaine Harbor Music Festival celebrates 25th anniversary thenorthernlight.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a87d7c99a4b",
+          "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb29saVRQLUZjQTl2ZjRhQjVkemhsaEZyblVwSUhzUW5wODNwa3BRd1NmZ1I4WmwwRkVNSHpPdVNyaVZ4cHJzQmlsbGVlcHhvSzAydzNNRWVnMTBuR3JMZkM4a25QYWFneWNvMzVVVC1ZaEdVUFUtOHJzZEV0ZkdQRExzdmJLSnlHVl9yWkdwNFFvV1FNMVlIZWRibmpES2ZpdDhISg?oc=5",
+          "published": "2026-07-02T14:36:03+09:00",
+          "category": "entertainment"
+        },
+        {
+          "headline": "Lifelong Learners continues Adventures in Music series - thealpenanews.com",
+          "excerpt": "Lifelong Learners continues Adventures in Music series thealpenanews.com",
+          "levels": {
+            "Beginner": {
+              "text": "Lifelong Learners continues Adventures in Music series thealpenanews.com",
+              "vocab": []
+            },
+            "Intermediate": {
+              "text": "Lifelong Learners continues Adventures in Music series thealpenanews.com",
+              "vocab": []
+            },
+            "Advanced": {
+              "text": "Lifelong Learners continues Adventures in Music series thealpenanews.com",
+              "vocab": []
+            }
+          },
+          "questions": [],
+          "id": "a0b910337f8",
+          "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzVIakNEUFZGNHBXRGp0aHBTLVlvVlVoN3YzQUJoVU0zZlhqUk5uY3JTVUIxeWpwMVlNNS1CN2tsR2lTV3BVWENjS3hyME1yRlpxcFEweXJXM0lSUEpFbHMwNkRScEFPMjNETFJYcjdTem1jc0lXWTlDYlRXVEVhWEdFWVh1NkI0VkVHZWE0aGJ6c0N0TmtnT1NkdU1vOHpTRkRHQ3ZoNGNXeHZCeUE?oc=5",
+          "published": "2026-07-02T14:33:41+09:00",
+          "category": "entertainment"
+        }
+      ]
     }
   ],
-  "home": []
+  "home": [
+    {
+      "headline": "Singapore Seizes $42M Mansion in AI Chip Smuggling Probe",
+      "excerpt": "A luxury home in Singapore was seized in a probe into the illegal trade of powerful AI computer chips.",
+      "levels": {
+        "Beginner": {
+          "text": "Singapore police have taken a very expensive house. This house cost 42 million US dollars. It was seized because of a crime. The police are investigating people who were illegally selling special computer parts. These parts are called AI semiconductors, like those made by Nvidia. AI chips are very powerful. They help computers become smart and learn things, like in Artificial Intelligence.\n\nSelling these important computer parts without permission is against the law. The police believe this expensive house was bought with money from this illegal trade. This means people were making a lot of money by selling these chips secretly. The government wants to stop this kind of crime. They are working to find out more about who is involved in selling these chips illegally. This seizure shows that Singapore is serious about stopping illegal activities, especially those involving valuable technology. The investigation is still happening to catch all the people involved.",
+          "vocab": [
+            {
+              "word": "seized",
+              "definition": "taken by force or by legal power."
+            },
+            {
+              "word": "investigating",
+              "definition": "looking into something carefully to find facts."
+            },
+            {
+              "word": "illegal",
+              "definition": "not allowed by law; against the law."
+            },
+            {
+              "word": "semiconductors",
+              "definition": "small parts in electronic devices, like computer chips."
+            },
+            {
+              "word": "trade",
+              "definition": "the activity of buying and selling goods."
+            },
+            {
+              "word": "activities",
+              "definition": "things that people do."
+            }
+          ]
+        },
+        "Intermediate": {
+          "text": "Singaporean authorities have seized a luxury mansion valued at $42 million as part of an ongoing investigation into the illicit trade of advanced AI semiconductors. The high-value property is believed to have been acquired with proceeds from the illegal sale of powerful computer chips, including those manufactured by Nvidia. These semiconductors are crucial components for developing Artificial Intelligence technologies, which are in high global demand.\n\nThe investigation focuses on a network involved in the smuggling of servers containing these sophisticated AI chips. Such chips are vital for data centers, advanced computing, and various AI applications, making them highly sought after across industries. Their immense processing power is essential for training complex AI models, which are used in everything from self-driving cars to medical diagnostics and military systems.\n\nHowever, due to their strategic importance, many countries, particularly the United States, have implemented strict export controls to prevent them from falling into the wrong hands or being used by rival nations for military advancements. This creates a lucrative black market for those willing to bypass international regulations, leading to incidents like the one uncovered in Singapore. The illegal trade of these chips can have significant economic and national security implications.\n\nThe seizure of the mansion underscores Singapore's commitment to combating financial crime and illegal trafficking. Authorities are working to dismantle the smuggling operations and identify all individuals and entities involved in this lucrative black market. This incident highlights the growing global concern over the unregulated flow of critical technologies and the efforts by nations to enforce international trade regulations. The probe is still active, with further details expected as the investigation progresses, aiming to bring those responsible to justice and recover any additional illicit assets.",
+          "vocab": [
+            {
+              "word": "authorities",
+              "definition": "official people or organizations that have the power to make decisions."
+            },
+            {
+              "word": "illicit",
+              "definition": "illegal or forbidden by rules or customs."
+            },
+            {
+              "word": "semiconductors",
+              "definition": "electronic components that are essential for computer chips and other devices."
+            },
+            {
+              "word": "crucial",
+              "definition": "extremely important or necessary."
+            },
+            {
+              "word": "smuggling",
+              "definition": "moving goods illegally into or out of a country."
+            },
+            {
+              "word": "export controls",
+              "definition": "government rules that limit what goods can be sent to other countries."
+            },
+            {
+              "word": "dismantle",
+              "definition": "to take apart or break up something, like an organization or system."
+            }
+          ]
+        },
+        "Advanced": {
+          "text": "Singaporean authorities have executed a significant asset seizure, confiscating a luxury mansion valued at an estimated $42 million. This high-profile action is a direct consequence of an intensive investigation into the illicit global trade of advanced Artificial Intelligence (AI) semiconductors, specifically targeting servers equipped with high-performance chips from manufacturers like Nvidia. The opulent property is suspected of being purchased with illicit proceeds derived from these sophisticated smuggling operations, highlighting the immense profits generated by circumventing international trade regulations.\n\nThe probe delves into a complex network facilitating the clandestine movement of these critical technological components. AI semiconductors are the bedrock of modern technological advancement, powering everything from cutting-edge data centers and cloud computing infrastructure to advanced military applications and sophisticated surveillance systems. Their unparalleled processing capabilities are indispensable for training large language models and other complex AI algorithms, making them strategic assets in the ongoing technological race between global powers. The scarcity and high demand for these chips further fuel the black market, where prices can be significantly inflated.\n\nThe global landscape for AI chip distribution is heavily influenced by geopolitical tensions, particularly the stringent export controls imposed by the United States. These regulations are primarily designed to restrict China's access to advanced computing capabilities, aiming to curb its military modernization and technological ascendancy. Consequently, a lucrative black market has emerged, where illicit actors exploit the high demand and restricted supply to traffic these chips, often through intricate global supply chains that span multiple jurisdictions. Singapore, a major financial and logistics hub, is particularly vigilant against such activities, which could undermine its reputation for financial integrity and adherence to international norms and sanctions regimes.\n\nThis seizure underscores Singapore's robust commitment to combating transnational financial crime and upholding its stringent anti-money laundering frameworks. The ongoing investigation seeks not only to prosecute those directly involved in the smuggling ring but also to trace and recover all assets acquired through these illegal activities, thereby disrupting the financial lifelines of such criminal enterprises. Such enforcement actions send a clear message that the city-state will not tolerate its territory being used as a conduit for illicit trade, especially concerning technologies with significant dual-use potential – meaning they can be used for both civilian and military purposes. The complexity of these cases often necessitates extensive international cooperation, reflecting the global nature of both the technology supply chain and the sophisticated criminal networks attempting to exploit it. Authorities are expected to continue their meticulous efforts to unravel the full extent of this operation, identifying key players and preventing future breaches of critical technology export controls.",
+          "vocab": [
+            {
+              "word": "confiscating",
+              "definition": "taking or seizing someone's property with authority."
+            },
+            {
+              "word": "illicit",
+              "definition": "forbidden by law, rules, or custom; illegal."
+            },
+            {
+              "word": "opulent",
+              "definition": "very rich, luxurious, or lavish."
+            },
+            {
+              "word": "clandestine",
+              "definition": "kept secret or done secretively, especially because illicit."
+            },
+            {
+              "word": "bedrock",
+              "definition": "the fundamental principles or facts on which something is based."
+            },
+            {
+              "word": "indispensable",
+              "definition": "absolutely necessary or essential."
+            },
+            {
+              "word": "stringent",
+              "definition": "strict, precise, and exacting."
+            },
+            {
+              "word": "transnational",
+              "definition": "extending or operating across national boundaries."
+            }
+          ]
+        }
+      },
+      "questions": [
+        {
+          "q": "What was seized by Singaporean authorities?",
+          "a": "A luxury mansion valued at $42 million."
+        },
+        {
+          "q": "Why was the mansion seized?",
+          "a": "It was seized as part of an investigation into the illegal trade of advanced AI semiconductors."
+        }
+      ],
+      "id": "acc10ba7532",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d9y18g73o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-02T15:02:17+09:00",
+      "category": "business",
+      "category_title": "Business"
+    },
+    {
+      "headline": "New Business Licenses: 7.2.26 - Richmond BizSense",
+      "excerpt": "New Business Licenses: 7.2.26 Richmond BizSense",
+      "levels": {
+        "Beginner": {
+          "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "New Business Licenses: 7.2.26 Richmond BizSense",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "aba21e7a9c9",
+      "source": "\"business OR company OR trade when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14ME9RTXVvcXdWM2QtQTA3NHZwYS1NZEdxenVPX05GcTRCSVRmYWN0UGg0OE9yakkzdjl2aGdFeXUyd1lYSklmRjNabElPS0Fiay1xVF9SUDNBY0tVTzFHcU9TUzJaZUNrUVgteVQ5RTRHUjd1S0V3WA?oc=5",
+      "published": "2026-07-02T15:00:45+09:00",
+      "category": "business",
+      "category_title": "Business"
+    },
+    {
+      "headline": "UBS already has enough capital to meet new government requirements: Swiss central bank - The Business Times",
+      "excerpt": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+      "levels": {
+        "Beginner": {
+          "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "UBS already has enough capital to meet new government requirements: Swiss central bank The Business Times",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a60182b01dd",
+      "source": "\"economy OR inflation OR GDP OR central bank when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMXNrd21WMnVGSkQ1TkNBQ2FOYzNobU12bE5GRE5TWkQ1NDkzVEc1RmJKNkhvS1lGd2hZM3VPb19oVy1HN3lPU0tQclZXVVpKUDVFYzl5Qm9BdXNfZjhYaWxQR0JRU0FuSmcwNE53MW4tWGdvSXFQV0I5NkZGTXE2S0hLcjJkSXB3bVBUMVJpamprTWNmYTBOc3pNVkVHZGFwdFplTDhkbUM5MGNkVjdLNmREZEF0aF9VUVpxbmZVRUFud3lZLXhQd1dTdFFSR3IybUdYcW9FNnZLTWRPN2NxMXBYcw?oc=5",
+      "published": "2026-07-02T15:17:00+09:00",
+      "category": "economics",
+      "category_title": "Economics"
+    },
+    {
+      "headline": "UK cost of living squeeze eases after record fall in diesel prices, and drop in mortgage rates – business live",
+      "excerpt": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rat",
+      "levels": {
+        "Beginner": {
+          "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "Rolling coverage of the latest economic and financial news It’s not just motor fuel prices that are falling. The average cost of a fixed-rate UK mortgage dipped again yesterday, to 5.52% for both two-year and five-year loans. “June has been a far better month for drivers on the back of the announcement of a deal between the US and Iran to end the conflict. The price of oil has fallen dramatically and prices at the pumps have reflected that.” Continue reading...",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a56d88ac4d8",
+      "source": "Economics | The Guardian",
+      "link": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
+      "published": "2026-07-02T15:15:17+09:00",
+      "category": "economics",
+      "category_title": "Economics"
+    },
+    {
+      "headline": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "excerpt": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say",
+      "levels": {
+        "Beginner": {
+          "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "aa855016e06",
+      "source": "BBC News",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-02T15:07:11+09:00",
+      "category": "politics",
+      "category_title": "Politics"
+    },
+    {
+      "headline": "How cryptocurrencies are changing global politics - Times Kuwait",
+      "excerpt": "How cryptocurrencies are changing global politics Times Kuwait",
+      "levels": {
+        "Beginner": {
+          "text": "How cryptocurrencies are changing global politics Times Kuwait",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "How cryptocurrencies are changing global politics Times Kuwait",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "How cryptocurrencies are changing global politics Times Kuwait",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a3a3e192ba1",
+      "source": "\"world politics OR government OR election when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41dTg3MGhITkl5OE4xRGFxLURaWEtfSkZsc3g2MHRPYmh5S05HSkRwTjFWbnFaRVlJODFkM05tbmgxbHF2bGwzNEo4ZGd1ZmUtcXIwODlIVWxqOTBKR1RueFNzTXE0Z0ZReDY0eUM1RDdxUUN4TlRhaE1ud1Vxem8?oc=5",
+      "published": "2026-07-02T14:58:22+09:00",
+      "category": "politics",
+      "category_title": "Politics"
+    },
+    {
+      "headline": "All Day Sports Camp Teaches Skills - theintermountain.com",
+      "excerpt": "All Day Sports Camp Teaches Skills theintermountain.com",
+      "levels": {
+        "Beginner": {
+          "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "All Day Sports Camp Teaches Skills theintermountain.com",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "afbb95ae849",
+      "source": "\"sports when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2xMX2M5ZG15SkRYVlB6MTdFQkQ1U2dIUFkwc3hUQkpzRl8wTV84Z3A0MWNJYW5ONldwSXpIaFc1OTJ1aWJkWkMtaXJBLTVkdVlvcHhibHVEMXg3aTAzTUNpbkNOYUt3OE9yWHg1Wm94anpqcmhQamk3XzkxTU9zM1ktU01wOHEycXFDWGJTQmRrdlhUdUpr?oc=5",
+      "published": "2026-07-02T15:00:00+09:00",
+      "category": "sports",
+      "category_title": "Sports"
+    },
+    {
+      "headline": "U.S. advances to round of 16 of World Cup - nujournal.com",
+      "excerpt": "U.S. advances to round of 16 of World Cup nujournal.com",
+      "levels": {
+        "Beginner": {
+          "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "U.S. advances to round of 16 of World Cup nujournal.com",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a1fec7d8c49",
+      "source": "\"sports when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlV2Y1FUTm9TNjA4YWF4Z3p6U1VUVE83dXMtaV9sTUVtX204ZldNdENlQmVXS1N3aUY1NUpXOE1SdzdHUmZ0amp3N1NuQzhjWTBGejdIQVl3R2lZUmwzTzVseTN6UXBMczdtaGNNeENVTnF5dWUyMENFOUg4RTVmbGNLU0drWnFlVktlV0QwejNKb21fcVhLWVFsRHhaQ3lWbjIyQ2l2RUNkWXZB?oc=5",
+      "published": "2026-07-02T15:00:00+09:00",
+      "category": "sports",
+      "category_title": "Sports"
+    },
+    {
+      "headline": "JL Mag Rare-Earth Stock Surges Amid Market Interest",
+      "excerpt": "JL Mag Rare-Earth's stock is surging, drawing attention to the company's role in the critical rare-earth elements market.",
+      "levels": {
+        "Beginner": {
+          "text": "The stock of a company called JL Mag Rare-Earth went up a lot today. When a stock goes up, it means more people want to buy it. This company works with special materials called \"rare-earth elements.\" These elements are very important for many things we use every day. For example, rare-earth elements are found in your smartphone, computer, and even electric cars. They help these devices work well and be smaller.\n\nRare-earth elements are a group of special metals. They are not really rare to find, but they are hard to dig out of the ground and make ready to use. Because they are so important for modern technology, companies that work with them, like JL Mag Rare-Earth, are watched closely by investors. A stock surge often happens when there is good news about the company or its products, or when people think the company will do well in the future. This shows how important rare-earth elements are for new technologies and the world economy.",
+          "vocab": [
+            {
+              "word": "stock",
+              "definition": "A small part of a company that you can buy and sell."
+            },
+            {
+              "word": "surging",
+              "definition": "Going up very quickly or strongly."
+            },
+            {
+              "word": "rare-earth elements",
+              "definition": "A group of special metals used in many high-tech products."
+            },
+            {
+              "word": "materials",
+              "definition": "Things used to make other things."
+            },
+            {
+              "word": "technology",
+              "definition": "The use of science in industry, engineering, etc., to invent useful things or to solve problems."
+            },
+            {
+              "word": "investors",
+              "definition": "People who put money into a company hoping to make more money."
+            }
+          ]
+        },
+        "Intermediate": {
+          "text": "JL Mag Rare-Earth's stock experienced a significant surge today, attracting considerable attention from investors. The company specializes in rare-earth elements, which are vital components for a wide range of modern industries and technologies. Rare-earth elements are a group of 17 metallic elements that are crucial for high-tech products, despite their name suggesting extreme scarcity. They are essential for the production of items such as smartphones, laptop computers, electric vehicles, wind turbines, and advanced defense systems.\n\nA stock surge typically indicates strong market confidence in a company or positive developments within its sector. This could be driven by various factors, including increased global demand for rare-earth products, new contracts secured by the company, or favorable market conditions for the rare-earth industry as a whole. The rare-earth market holds strategic importance globally, as many countries are keen to secure reliable supplies of these elements to support their technological advancements and economic growth.\n\nJL Mag Rare-Earth's performance today highlights the dynamic nature of this critical sector. Its stock movement often reflects broader trends and investor interest in companies that supply essential components for the green energy transition and the expanding digital economy. The company's role in providing these indispensable materials makes its market activity a key indicator for the health and future direction of the rare-earth industry.",
+          "vocab": [
+            {
+              "word": "significant",
+              "definition": "Important or noticeable."
+            },
+            {
+              "word": "specializes",
+              "definition": "Focuses on a particular area or product."
+            },
+            {
+              "word": "vital",
+              "definition": "Extremely important or necessary."
+            },
+            {
+              "word": "metallic",
+              "definition": "Relating to or made of metal."
+            },
+            {
+              "word": "confidence",
+              "definition": "A feeling of trust or belief in someone or something."
+            },
+            {
+              "word": "strategic importance",
+              "definition": "Being very important for a country's plans, especially for defense or economy."
+            },
+            {
+              "word": "dynamic",
+              "definition": "Constantly changing or progressing."
+            }
+          ]
+        },
+        "Advanced": {
+          "text": "JL Mag Rare-Earth, a prominent player in the critical rare-earth elements sector, witnessed a substantial surge in its stock valuation today, capturing considerable market attention. This upward trajectory underscores the volatile yet strategically crucial nature of the rare-earth industry, which underpins numerous advanced technologies globally.\n\nRare-earth elements (REEs) comprise a group of 17 chemically similar metallic elements that are indispensable for a vast array of high-technology applications. Despite their misleading name, they are not exceptionally rare in the Earth's crust but are challenging and costly to extract and process economically. They are fundamental components in consumer electronics (such as smartphones and laptops), renewable energy technologies (including wind turbines and electric vehicle motors), medical imaging devices, and advanced defense systems. The unique magnetic, luminescent, and catalytic properties of REEs make them irreplaceable in these applications.\n\nA sudden spike in a company's stock price, particularly one operating in a specialized commodity market like REEs, can be attributed to several factors. These might include anticipation of robust demand driven by global electrification initiatives, favorable policy shifts impacting the industry, breakthroughs in extraction or processing technologies, or the securing of significant new supply contracts. The global rare-earth market is characterized by complex supply chains and geopolitical sensitivities, with nations worldwide actively pursuing strategies to diversify their rare-earth sourcing and processing capabilities, aiming to reduce reliance on single suppliers and enhance national security.\n\nJL Mag Rare-Earth's performance today serves as a barometer for investor sentiment within this critical sector. Its market movement often reflects broader economic indicators, technological advancements, and the ongoing global push towards electrification and digitalization. The company's position as a key supplier of rare-earth permanent magnets, essential for high-performance motors and generators, places it at the nexus of these transformative trends. Analysts will be scrutinizing the underlying catalysts for this surge, as it could signal emerging opportunities or challenges within the broader rare-earth landscape. The sustained demand for REEs, driven by the accelerating energy transition and technological innovation, ensures that companies like JL Mag Rare-Earth remain under intense investor scrutiny.",
+          "vocab": [
+            {
+              "word": "prominent",
+              "definition": "Important or well-known."
+            },
+            {
+              "word": "substantial",
+              "definition": "Of considerable importance, size, or worth."
+            },
+            {
+              "word": "trajectory",
+              "definition": "The path or course followed by a moving object or a trend."
+            },
+            {
+              "word": "indispensable",
+              "definition": "Absolutely necessary or essential."
+            },
+            {
+              "word": "attributed",
+              "definition": "Regarded as belonging to or caused by."
+            },
+            {
+              "word": "geopolitical",
+              "definition": "Relating to politics, especially international relations, as influenced by geographical factors."
+            },
+            {
+              "word": "barometer",
+              "definition": "Something that indicates changes in something else."
+            },
+            {
+              "word": "nexus",
+              "definition": "A connection or series of connections linking two or more things; a central or focal point."
+            }
+          ]
+        }
+      },
+      "questions": [
+        {
+          "q": "What kind of special materials does JL Mag Rare-Earth work with?",
+          "a": "JL Mag Rare-Earth works with rare-earth elements."
+        },
+        {
+          "q": "Name two types of modern technology that use rare-earth elements.",
+          "a": "Rare-earth elements are used in smartphones, electric cars, computers, and wind turbines."
+        }
+      ],
+      "id": "a8d49011f08",
+      "source": "\"stock market OR finance OR markets OR investing when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVllUdHdoNC1uczdqQktEa2VFRFdxaHFDNU9oMnpBRnpHR3g1YVdOeEhMbFlhaGg0RjJzek1aVTJUYWYtMmRTd2lGS0otcHdLa2k2RG5CYmZZbHNhUWM0Rm1BaXlPTkd3Y3Z5UzJ6blRBdFlhSVRza2VyRU04RmZTZlhId0ZUV1VOcURSNk90ZGdNUnFyQzFnY0RHT1c1VGkxNTRpaHB3MA?oc=5",
+      "published": "2026-07-02T15:08:19+09:00",
+      "category": "finance",
+      "category_title": "Finance"
+    },
+    {
+      "headline": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market - The Motley Fool",
+      "excerpt": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+      "levels": {
+        "Beginner": {
+          "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "New Fed Chair Kevin Warsh Recently Said 36 Words That Could Forever Change the Fed's Relationship With the Stock Market The Motley Fool",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a3b6be465ee",
+      "source": "\"stock market OR finance OR markets OR investing when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmdYOWgtWVI1c2d2TWZnazJqTmROdFE1Mjg5a2d3THN3WjloWndNN1MxYk9SaTh0U1JPVUFMZ1ZjVnZhQklkbzN2UzdvcjhsR0M3ZG9iSDNaOHpxek9vUEZub0JiOWlieGV1U2RDcHVpbzJnVEQ2RFdNZElmajliUjY1N2xQVEIwcDBBaHR2NkhhcGlqcXp5QQ?oc=5",
+      "published": "2026-07-02T15:04:50+09:00",
+      "category": "finance",
+      "category_title": "Finance"
+    },
+    {
+      "headline": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" - Metal Underground.com",
+      "excerpt": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+      "levels": {
+        "Beginner": {
+          "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "With All Disrespect Premiere New Music Video For \"Clarity Through Static\" Metal Underground.com",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "a2f6d251893",
+      "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tdlBuaWswSmFLQklwZ2dqNTVlMkVNNE12cG5xT2RMdTZuVEZtOUxlY3JxMzQ1N3ZYMElmOW1lOFRXR3VNaWRZeUVRb25EYXdQUlBiQ3JoR0ZxWDdpR0JVc0MtUkFPU2l1S3AtOG9MYw?oc=5",
+      "published": "2026-07-02T15:07:00+09:00",
+      "category": "entertainment",
+      "category_title": "Entertainment"
+    },
+    {
+      "headline": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) - The Hollywood Reporter",
+      "excerpt": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+      "levels": {
+        "Beginner": {
+          "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+          "vocab": []
+        },
+        "Intermediate": {
+          "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+          "vocab": []
+        },
+        "Advanced": {
+          "text": "‘Petty Thieves’ Explores “Gestures of Solidarity Among People With Little Power” (Exclusive Trailer) The Hollywood Reporter",
+          "vocab": []
+        }
+      },
+      "questions": [],
+      "id": "ab50f861b1a",
+      "source": "\"entertainment OR film OR music OR celebrity OR television when:2d\" - Google News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUhsVHZIWkM2UzB1TzQyUWNVXzRMYTkxaENwcWJodE8weGl4UDlkemloY0ZySWpvYWFudm5Ma05GOU50UDBaMjF2TzRjaUpVVW14OFc4Ymt2WkNfMlF2RHM1WGhYOHJ0aTRNM0E0NzdCaVNwYzc5ZVBudDZRTDI5WlhUQmhMMUc4cmVURi1LT0ZTVGpVcEdSTEMtU1BWdV9hbk5maDZnUTNiUzU0TnNSYWdnS2lBNi0wYzFN?oc=5",
+      "published": "2026-07-02T15:00:18+09:00",
+      "category": "entertainment",
+      "category_title": "Entertainment"
+    }
+  ]
 }
