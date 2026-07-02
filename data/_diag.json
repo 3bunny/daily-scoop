@@ -1,0 +1,8 @@
+{
+  "available": false,
+  "gemini": {
+    "ok": 0,
+    "fail": 0,
+    "last_error": null
+  }
+}

@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 22 * * *"     # 22:00 UTC = 07:00 KST — fresh edition each morning
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['src/**','config/**','.github/workflows/build.yml']
 permissions:
   contents: write
 concurrency:
