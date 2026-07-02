@@ -127,9 +127,10 @@ function renderArticle(a){
   h+='<h2 class="art-h">'+esc(a.headline)+'</h2>';
   h+='<div class="art-src">'+esc(a.source)+'</div>';
   h+='<div class="levels">'+LEVELS.map(l=>'<button data-lv="'+l+'" class="'+(l===lv?'active':'')+'">'+l+'</button>').join('')+'</div>';
-  if((a.vocab||[]).length){h+='<div class="panel"><h4>Vocabulary</h4><dl class="vocab">'+
-    a.vocab.map(v=>'<dt>'+esc(v.word)+'</dt><dd>'+esc(v.definition)+'</dd>').join('')+'</dl></div>';}
-  h+='<div class="article-body">'+paras((a.levels||{})[lv])+'</div>';
+  const lo=((a.levels||{})[lv])||{};
+  if((lo.vocab||[]).length){h+='<div class="panel"><h4>Vocabulary — '+lv+'</h4><dl class="vocab">'+
+    lo.vocab.map(v=>'<dt>'+esc(v.word)+'</dt><dd>'+esc(v.definition)+'</dd>').join('')+'</dl></div>';}
+  h+='<div class="article-body">'+paras(lo.text)+'</div>';
   if((a.questions||[]).length){h+='<div class="panel"><h4>Comprehension</h4>'+
     a.questions.map((q,i)=>'<div class="q"><p class="qq">'+(i+1)+'. '+esc(q.q)+'</p><details><summary></summary><p>'+esc(q.a)+'</p></details></div>').join('')+'</div>';}
   if(a.link){h+='<a class="srclink" href="'+esc(a.link)+'" target="_blank" rel="noopener">Read the original ↗</a>';}

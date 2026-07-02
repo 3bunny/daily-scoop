@@ -35,36 +35,44 @@ def aid(link, title):
 def make_article(item):
     prompt = (
         "You help people learn English by reading world news. Using the news item "
-        "below, write a clear, self-contained article IN ENGLISH at three difficulty "
-        "levels, plus study aids. Stay faithful to the facts in the source; do not "
-        "invent specific numbers, names, or quotes. Neutral, factual news tone.\n\n"
-        "Levels:\n"
-        "- Beginner: short simple sentences, very common words (~150 words).\n"
-        "- Intermediate: clear everyday English (~280 words).\n"
-        "- Advanced: natural news English (~320 words).\n\n"
+        "below, write a clear, self-contained article IN ENGLISH at THREE difficulty "
+        "levels. Higher levels must be LONGER and use HARDER vocabulary. Stay faithful "
+        "to the facts in the source; do not invent specific numbers, names, or quotes. "
+        "Neutral, factual news tone.\n\n"
+        "For EACH level write the article text AND a vocabulary list drawn from THAT "
+        "level's text (words a learner at that level would want to learn):\n"
+        "- Beginner: about 120 words, very short simple sentences, very common words; "
+        "5 easy vocab words with simple definitions.\n"
+        "- Intermediate: about 260 words, clear everyday English; 6 medium vocab words.\n"
+        "- Advanced: about 420 words, natural rich news English with more complex "
+        "sentences; 7 harder/academic vocab words with fuller definitions.\n\n"
         "Return JSON: {"
-        '"headline": str (clear, <=12 words), '
+        '"headline": str (<=12 words), '
         '"excerpt": str (one ~20-word teaser sentence), '
-        '"levels": {"Beginner": str, "Intermediate": str, "Advanced": str}, '
-        '"vocab": [{"word": str, "definition": str (simple English definition)}] (6-8 useful words from the article), '
-        '"questions": [{"q": str, "a": str (short answer)}] (exactly 2 reading-comprehension questions)'
+        '"beginner": {"text": str, "vocab": [{"word": str, "definition": str}]}, '
+        '"intermediate": {"text": str, "vocab": [{"word": str, "definition": str}]}, '
+        '"advanced": {"text": str, "vocab": [{"word": str, "definition": str}]}, '
+        '"questions": [{"q": str, "a": str}] (exactly 2 comprehension questions)'
         "}\n\n"
         f"NEWS ITEM:\nHeadline: {item['title']}\nSource: {item['source']}\n"
         f"Summary: {item['summary']}"
     )
     r = gemini_client.generate_json(prompt)
-    if isinstance(r, dict) and isinstance(r.get("levels"), dict) and r["levels"].get("Intermediate"):
-        return {
-            "headline": str(r.get("headline") or item["title"]).strip(),
-            "excerpt": str(r.get("excerpt", "")).strip(),
-            "levels": {lv: str(r["levels"].get(lv, "")).strip() for lv in LEVELS},
-            "vocab": r.get("vocab", []) if isinstance(r.get("vocab"), list) else [],
-            "questions": r.get("questions", []) if isinstance(r.get("questions"), list) else [],
-        }
-    # fallback: no study aids, just the feed text
+    keymap = {"Beginner": "beginner", "Intermediate": "intermediate", "Advanced": "advanced"}
+    if isinstance(r, dict) and isinstance(r.get("intermediate"), dict) and r["intermediate"].get("text"):
+        levels = {}
+        for label, k in keymap.items():
+            blk = r.get(k) if isinstance(r.get(k), dict) else {}
+            levels[label] = {"text": str(blk.get("text", "")).strip(),
+                             "vocab": blk.get("vocab", []) if isinstance(blk.get("vocab"), list) else []}
+        return {"headline": str(r.get("headline") or item["title"]).strip(),
+                "excerpt": str(r.get("excerpt", "")).strip(),
+                "levels": levels,
+                "questions": r.get("questions", []) if isinstance(r.get("questions"), list) else []}
+    # fallback: feed text, no study aids
     body = item.get("summary") or "Full article unavailable. Tap the source link to read more."
     return {"headline": item["title"], "excerpt": body[:140],
-            "levels": {lv: body for lv in LEVELS}, "vocab": [], "questions": []}
+            "levels": {lv: {"text": body, "vocab": []} for lv in LEVELS}, "questions": []}
 
 
 def main():
@@ -85,8 +93,8 @@ def main():
                         "category": cat["key"]})
             articles.append(art)
         edition["categories"].append({"key": cat["key"], "title": cat["title"], "articles": articles})
-        if articles:  # lead story of each category feeds the homepage
-            lead = dict(articles[0]); lead["category_title"] = cat["title"]
+        for lead_src in articles[:2]:  # two leads per category feed the homepage
+            lead = dict(lead_src); lead["category_title"] = cat["title"]
             edition["home"].append(lead)
 
     d = os.path.join(ROOT, "data")
