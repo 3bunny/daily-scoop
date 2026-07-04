@@ -1,8 +1,8 @@
 {
   "available": true,
   "gemini": {
-    "ok": 8,
-    "fail": 22,
+    "ok": 14,
+    "fail": 16,
     "last_error": "HTTP 429"
   }
 }
